@@ -1,0 +1,850 @@
+<samples book="sample" num="1">
+    <div book="sample1" num="1">
+        <p pid="5" id="DS.c42.p5" type="speech">
+            <s sid="1" id="sample1.c1.s1"><qs/>'What, scapegrace!'<qe/><sls/> said Mr Carker,
+                glancing at his bundle <sle/><qs/>'Have you left your situation and come to
+                me?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="2">
+        <p pid="27" id="DS.c27.p27" type="speech">
+            <s sid="1" id="sample1.c2.s1"><qs/>'I am charmed, I am sure,'<qe/> said Mrs Skewton,
+                graciously.</s>
+        </p>
+    </div>
+    <div book="sample1" num="3">
+        <p pid="105" id="SB.c52.p105" type="speech">
+            <s sid="1" id="sample1.c3.s1"><qs/>'My child!'<qe/> screamed Mrs. Fleetwood.</s>
+            <s sid="2" id="sample1.c3.s2"><qs/>'My child! it is his voice--I know it.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="4">
+        <p pid="35" id="LD.c26.p35" type="speech">
+            <s sid="1" id="sample1.c4.s1"><qs/>'I am not quite so sure of myself, and therefore I
+                reserve my privilege of objecting to him,'<qe/> returned the other.</s>
+            <s sid="2" id="sample1.c4.s2"><qs/>'But, if I am not sure of myself, I am sure of you,
+                Clennam, and I know what an upright man you are, and how much to be respected.</s>
+            <s sid="3" id="sample1.c4.s3">Good night, MY friend and partner!'<qe/></s>
+            <s sid="4" id="sample1.c4.s4">He shook his hand in saying this, as if there had been
+                something serious at the bottom of their conversation; and they separated.</s>
+        </p>
+    </div>
+    <div book="sample1" num="5">
+        <p pid="62" id="BR.c79.p62" type="speech">
+            <s sid="1" id="sample1.c5.s1"><qs/>'Still he refused?</s>
+            <s sid="2" id="sample1.c5.s2">That was hardened and unnatural.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="7">
+        <p pid="73" id="PP.c54.p73" type="speech">
+            <s sid="1" id="sample1.c7.s1"><qs/>'This is satisfactory,'<qe/> said Wardle, hardly
+                knowing whether to smile or be offended.</s>
+        </p>
+    </div>
+    <div book="sample1" num="8">
+        <p pid="63" id="NN.c7.p63" type="speech">
+            <s sid="1" id="sample1.c8.s1"><qs/>'How's the steak, Squeers?'<qe/> said Mrs S.</s>
+        </p>
+    </div>
+    <div book="sample1" num="9">
+        <p pid="56" id="LD.c23.p56" type="speech">
+            <s sid="1" id="sample1.c9.s1"><qs/>'Then, Flora,'<qe/><sls/> said Arthur, with a sudden
+                interest in the conversation, <sle/><qs/>'Mr Casby was so kind as to mention Little
+                Dorrit to you, was he?</s>
+            <s sid="2" id="sample1.c9.s2">What did he say?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="10">
+        <p pid="137" id="DC.c59.p137" type="speech">
+            <s sid="1" id="sample1.c10.s1"><qs/>'Mrs. Chillip does go so far as to say,'<qe/><sls/>
+                pursued the meekest of little men, much encouraged, <sle/><qs/>'that what such
+                people miscall their religion, is a vent for their bad humours and arrogance.</s>
+            <s sid="2" id="sample1.c10.s2">And do you know I must say, sir,'<qe/><sls/> he
+                continued, mildly laying his head on one side, <sle/><qs/>'that I DON'T find
+                authority for Mr. and Miss Murdstone in the New Testament?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="11">
+        <p pid="177" id="PP.c34.p177" type="speech">
+            <s sid="1" id="sample1.c11.s1"><qs/>'Little to do, and plenty to get, I suppose?'<qe/>
+                said Serjeant Buzfuz, with jocularity.</s>
+            <s sid="2" id="sample1.c11.s2"><qs/>'Oh, quite enough to get, Sir, as the soldier said
+                ven they ordered him three hundred and fifty lashes,'<qe/> replied Sam.</s>
+        </p>
+    </div>
+    <div book="sample1" num="12">
+        <p pid="8" id="GE.c50.p8" type="speech">
+            <s sid="1" id="sample1.c12.s1"><qs/>"Dear little thing!"<qe/> said Herbert.</s>
+            <s sid="2" id="sample1.c12.s2"><qs/>"She was up and down with Gruffandgrim all the
+                evening.</s>
+            <s sid="3" id="sample1.c12.s3">He was perpetually pegging at the floor, the moment she
+                left his sight.</s>
+            <s sid="4" id="sample1.c12.s4">I doubt if he can hold out long though.</s>
+            <s sid="5" id="sample1.c12.s5">What with rum and pepper - and pepper and rum - I should
+                think his pegging must be nearly over."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="13">
+        <p pid="43" id="OT.c12.p43" type="speech">
+            <s sid="1" id="sample1.c13.s1"><qs/>'Lord save us!'<qe/><sls/> exclaimed the old lady,
+                starting; <sle/><qs/>'don't talk in that way, child.</s>
+            <s sid="2" id="sample1.c13.s2">You're weak and nervous after your illness.</s>
+            <s sid="3" id="sample1.c13.s3">Let me wheel your chair round to the other side; and then
+                you won't see it.</s>
+            <s sid="4" id="sample1.c13.s4">There!'<qe/><sls/> said the old lady, suiting the action
+                to the word; <sle/><qs/>'you don't see it now, at all events.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="14">
+        <p pid="49" id="NN.c12.p49" type="speech">
+            <s sid="1" id="sample1.c14.s1"><qs/>'Yes, I am,'<qe/> rejoined Miss Squeers, tying tight
+                knots in her pocket- handkerchief and clenching her teeth.</s>
+            <s sid="2" id="sample1.c14.s2"><qs/>'And I wish I was dead too.</s>
+            <s sid="3" id="sample1.c14.s3">There!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="15">
+        <p pid="71" id="CH.c2.p71" type="speech">
+            <s sid="1" id="sample1.c15.s1"><qs/>'Take care she don't forget what I've been saying to
+                her.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="16">
+        <p pid="99" id="PP.c37.p99" type="speech">
+            <s sid="1" id="sample1.c16.s1">Here there was a loud cry of <qs/>'Order,'<qe/> and Mr.
+                John Smauker, as the gentleman who had introduced Mr. Weller into that company,
+                begged to inform him that the word he had just made use of, was unparliamentary.</s>
+        </p>
+    </div>
+    <div book="sample1" num="17">
+        <p pid="25" id="LD.c15.p25" type="speech">
+            <s sid="1" id="sample1.c17.s1"><qs/>'I was going to tell you why it was.</s>
+            <s sid="2" id="sample1.c17.s2">Because, before you took your own part, I thought you
+                ought to have taken the part of Arthur's father.</s>
+            <s sid="3" id="sample1.c17.s3">Arthur's father!</s>
+            <s sid="4" id="sample1.c17.s4">I had no particular love for Arthur's father.</s>
+            <s sid="5" id="sample1.c17.s5">I served Arthur's father's uncle, in this house, when
+                Arthur's father was not much above me--was poorer as far as his pocket went--and
+                when his uncle might as soon have left me his heir as have left him.</s>
+            <s sid="6" id="sample1.c17.s6">He starved in the parlour, and I starved in the kitchen;
+                that was the principal difference in our positions; there was not much more than a
+                flight of breakneck stairs between us.</s>
+            <s sid="7" id="sample1.c17.s7">I never took to him in those times; I don't know that I
+                ever took to him greatly at any time.</s>
+            <s sid="8" id="sample1.c17.s8">He was an undecided, irresolute chap, who had everything
+                but his orphan life scared out of him when he was young.</s>
+            <s sid="9" id="sample1.c17.s9">And when he brought you home here, the wife his uncle had
+                named for him, I didn't need to look at you twice (you were a good- looking woman at
+                that time) to know who'd be master.</s>
+            <s sid="10" id="sample1.c17.s10">You have stood of your own strength ever since.</s>
+            <s sid="11" id="sample1.c17.s11">Stand of your own strength now.</s>
+            <s sid="12" id="sample1.c17.s12">Don't lean against the dead.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="18">
+        <p pid="54" id="OT.c30.p54" type="speech">
+            <s sid="1" id="sample1.c18.s1"><qs/>'I ask you again,'<qe/><sss/> thundered the doctor,
+                <sse/><qs/>'are you, on your solemn oaths, able to identify that boy?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="19">
+        <p pid="15" id="SB.c52.p15" type="speech">
+            <s sid="1" id="sample1.c19.s1"><qs/>'Now,'<qe/><sss/> continued Mr. Percy Noakes,
+                <sse/><qs/>'it seems to me that the best way will be, to have a committee of ten, to
+                make all the arrangements, and manage the whole set-out.</s>
+            <s sid="2" id="sample1.c19.s2">Then, I propose that the expenses shall be paid by these
+                ten fellows jointly.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="20">
+        <p pid="148" id="CC.c1.p148" type="speech">
+            <s sid="1" id="sample1.c20.s1"><qs/>"Business!"<qe/> cried the Ghost, wringing its hands
+                again.</s>
+            <s sid="2" id="sample1.c20.s2"><qs/>"Mankind was my business.</s>
+            <s sid="3" id="sample1.c20.s3">The common welfare was my business; charity, mercy,
+                forbearance, and benevolence, were, all, my business.</s>
+            <s sid="4" id="sample1.c20.s4">The dealings of my trade were but a drop of water in the
+                comprehensive ocean of my business!"<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="21">
+        <p pid="39" id="BR.c75.p39" type="speech">
+            <s sid="1" id="sample1.c21.s1">Sir John Chester settled himself in a position of greater
+                repose, and looked at his visitor with an expression of face which seemed to say,
+                <qs/>'This is an amusing fellow!</s>
+            <s sid="2" id="sample1.c21.s2">I'll hear him out.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="22">
+        <p pid="75" id="DS.c48.p75" type="speech">
+            <s sid="1" id="sample1.c22.s1"><qs/>'The person said,'<qe/><sss/> continued Mr Toots,
+                <sse/><qs/>'that he had heard a dog barking in the shop: which I knew couldn't be,
+                and I told him so.</s>
+            <s sid="2" id="sample1.c22.s2">But he was as positive as if he had seen the
+            dog.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="23">
+        <p pid="76" id="DS.c56.p76" type="speech">
+            <s sid="1" id="sample1.c23.s1"><qs/>'Nor I, indeed, dear Florence.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="24">
+        <p pid="49" id="NN.c61.p49" type="speech">
+            <s sid="1" id="sample1.c24.s1"><qs/>'Ah!'<qe/><sss/> said Tim, <sse/><qs/>'you look
+                tired though, now I come to look at you.</s>
+            <s sid="2" id="sample1.c24.s2">Hark! there he is, d'ye hear him?</s>
+            <s sid="3" id="sample1.c24.s3">That was Dick, the blackbird.</s>
+            <s sid="4" id="sample1.c24.s4">He hasn't been himself since you've been gone.</s>
+            <s sid="5" id="sample1.c24.s5">He'd never get on without you, now; he takes as naturally
+                to you as he does to me.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="25">
+        <p pid="32" id="OT.c46.p32" type="speech">
+            <s sid="1" id="sample1.c25.s1"><qs/>'You were not suspected of holding any communication
+                with anybody on the subject which has brought us here to-night, I hope?'<qe/> asked
+                the old gentleman.</s>
+        </p>
+    </div>
+    <div book="sample1" num="26">
+        <p pid="18" id="GE.c8.p18" type="speech">
+            <s sid="1" id="sample1.c26.s1"><qs/>"Not that anybody means to try,"<qe/><sss/> she
+                added, <sse/><qs/>"for that's all done with, and the place will stand as idle as it
+                is, till it falls.</s>
+            <s sid="2" id="sample1.c26.s2">As to strong beer, there's enough of it in the cellars
+                already, to drown the Manor House."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="27">
+        <p pid="106" id="PP.c43.p106" type="speech">
+            <s sid="1" id="sample1.c27.s1"><qs/>'Gentlemen,'<qe/><sss/> said the coach-horser,
+                <sse/><qs/>'rather than disturb the harmony of this delightful occasion, perhaps Mr.
+                Samuel Weller will oblige the company.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="28">
+        <p pid="13" id="OT.c43.p13" type="speech">
+            <s sid="1" id="sample1.c28.s1"><qs/>'Number two, you mean,'<qe/> said Mr. Bolter, who
+                was largely endowed with the quality of selfishness.</s>
+        </p>
+    </div>
+    <div book="sample1" num="29">
+        <p pid="59" id="BH.c49.p59" type="speech">
+            <s sid="1" id="sample1.c29.s1"><qs/>"You're very near, sir,"<qe/> says Mrs. Bagnet.</s>
+        </p>
+    </div>
+    <div book="sample1" num="30">
+        <p pid="13" id="OMF.c7.p13" type="speech">
+            <s sid="1" id="sample1.c30.s1"><qs/>'Yes, yes,'<qe/> quoth Venus.</s>
+            <s sid="2" id="sample1.c30.s2"><qs/>'How do you do?</s>
+            <s sid="3" id="sample1.c30.s3">Sit down by the fire, and warm your--your other
+                one.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="31">
+        <p pid="28" id="ED.c10.p28" type="speech">
+            <s sid="1" id="sample1.c31.s1"><qs/>'--For,'<qe/><sss/> pursued the Minor Canon,
+                <sse/><qs/>'it is undeniable that Mr. Neville is exceedingly industrious and
+                attentive, and that he improves apace, and that he has--I hope I may say--an
+                attachment to me.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="32">
+        <p pid="49" id="BH.c40.p49" type="speech">
+            <s sid="1" id="sample1.c32.s1"><qs/>"Mr. Tulkinghorn,"<qe/><sss/> says Sir Leicester,
+                <sse/><qs/>"is always welcome here and always discreet wheresoever he is.</s>
+            <s sid="2" id="sample1.c32.s2">A very valuable person, and deservedly
+            respected."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="33">
+        <p pid="38" id="OMF.c64.p38" type="speech">
+            <s sid="1" id="sample1.c33.s1"><qs/>'When is it to come off?'<qe/> asked Silas.</s>
+        </p>
+    </div>
+    <div book="sample1" num="34">
+        <p pid="13" id="OT.c36.p13" type="speech">
+            <s sid="1" id="sample1.c34.s1"><qs/>'I shall not be at home again, perhaps for some
+                time; I wish you would write to me--say once a fort-night: every alternate Monday:
+                to the General Post Office in London.</s>
+            <s sid="2" id="sample1.c34.s2">Will you?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="35">
+        <p pid="114" id="BH.c26.p114" type="speech">
+            <s sid="1" id="sample1.c35.s1"><qs/>"Nothing of the kind!"<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="36">
+        <p pid="91" id="PP.c48.p91" type="speech">
+            <s sid="1" id="sample1.c36.s1"><qs/>'What!'<qe/> said Mr. Bob Sawyer.</s>
+            <s sid="2" id="sample1.c36.s2"><qs/>'His name!'<qe/> cried Ben Allen.</s>
+            <s sid="3" id="sample1.c36.s3"><qs/>'His name!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="37">
+        <p pid="22" id="GE.c49.p22" type="speech">
+            <s sid="1" id="sample1.c37.s1"><qs/>"And your mind will be more at rest?"<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="38">
+        <p pid="106" id="DS.c11.p106" type="speech">
+            <s sid="1" id="sample1.c38.s1">While they were gone, Paul sat upon the table, holding
+                Florence by the hand, and glancing timidly from the Doctor round and round the room,
+                while the Doctor, leaning back in his chair, with his hand in his breast as usual,
+                held a book from him at arm's length, and read.</s>
+            <s sid="2" id="sample1.c38.s2">There was something very awful in this manner of reading.</s>
+            <s sid="3" id="sample1.c38.s3">It was such a determined, unimpassioned, inflexible,
+                cold-blooded way of going to work.</s>
+            <s sid="4" id="sample1.c38.s4">It left the Doctor's countenance exposed to view; and
+                when the Doctor smiled suspiciously at his author, or knit his brows, or shook his
+                head and made wry faces at him, as much as to say, <qs/>'Don't tell me, Sir; I know
+                better,'<qe/> it was terrific.</s>
+        </p>
+    </div>
+    <div book="sample1" num="39">
+        <p pid="115" id="DC.c52.p115" type="speech">
+            <s sid="1" id="sample1.c39.s1"><qs/>'Ury, Ury!</s>
+            <s sid="2" id="sample1.c39.s2">Be umble, and make terms, my dear!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="40">
+        <p pid="39" id="OMF.c52.p39" type="speech">
+            <s sid="1" id="sample1.c40.s1"><qs/>'Have YOU breakfasted, sir?'<qe/> inquired Mr
+                Boffin.</s>
+        </p>
+    </div>
+    <div book="sample1" num="41">
+        <p pid="73" id="MC.c27.p73" type="speech">
+            <s sid="1" id="sample1.c41.s1"><qs/>'You think you do,'<qe/><sss/> replied the doctor;
+                <sse/><qs/>'but science knows better.</s>
+            <s sid="2" id="sample1.c41.s2">There was a patient of mine once,'<qe/><sls/> touching
+                one of the many mourning rings upon his fingers, and slightly bowing his head,
+                <sle/><qs/>'a gentleman who did me the honour to make a very handsome mention of me
+                in his will--<alt-qs/>"in testimony,"<alt-qe/><sls/> as he was pleased to say, <sle/><alt-qs/>"of the unremitting zeal,
+                talent, and attention of my friend and medical attendant, John Jobling, Esquire,
+                M.R.C.S.,"<alt-qe/><sls/>--who was so overcome by the idea of having all his life laboured under an
+                erroneous view of the locality of this important organ, that when I assured him on
+                my professional reputation, he was mistaken, he burst into tears, put out his hand,
+                and said, <sle/><alt-qs/>"Jobling, God bless you!"<alt-qe/></s>
+            <s sid="3" id="sample1.c41.s3">Immediately afterwards he became speechless, and was
+                ultimately buried at Brixton.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="42">
+        <p pid="12" id="AN.c5.p12" type="speech">
+            <s sid="1" id="sample1.c42.s1"><qs/>'Does Pontefract still flourish, sir, upon the soil
+                of England?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="43">
+        <p pid="88" id="BH.c35.p88" type="speech">
+            <s sid="1" id="sample1.c43.s1"><qs/>"But, my dear,"<qe/><sls/> she went on in her
+                mysterious way, <sle/><qs/>"there's a dreadful attraction in the place.</s>
+            <s sid="2" id="sample1.c43.s2">Hush!</s>
+            <s sid="3" id="sample1.c43.s3">Don't mention it to our diminutive friend when she comes
+                in.</s>
+            <s sid="4" id="sample1.c43.s4">Or it may frighten her.</s>
+            <s sid="5" id="sample1.c43.s5">With good reason.</s>
+            <s sid="6" id="sample1.c43.s6">There's a cruel attraction in the place.</s>
+            <s sid="7" id="sample1.c43.s7">You CAN'T leave it.</s>
+            <s sid="8" id="sample1.c43.s8">And you MUST expect."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="44">
+        <p pid="32" id="BR.c49.p32" type="speech">
+            <s sid="1" id="sample1.c44.s1"><qs/>'Gentlemen,'<qe/><sls/> said Lord George, who was very
+                pale and agitated, <sle/><qs/>we must be firm.</s>
+            <s sid="2" id="sample1.c44.s2">They talk of delays, but we must have no delays.</s>
+            <s sid="3" id="sample1.c44.s3">They talk of taking your petition into consideration next
+                Tuesday, but we must have it considered now.</s>
+            <s sid="4" id="sample1.c44.s4">Present appearances look bad for our success, but we must
+                succeed and will!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="45">
+        <p pid="114" id="LD.c41.p114" type="speech">
+            <s sid="2" id="sample1.c45.s2"><qs/>'I love Amy,'<qe/><sls/> cried Miss Fanny, sobbing
+                and weeping, <sle/><qs/>'as well as I love my life--better than I love my life.</s>
+            <s sid="3" id="sample1.c45.s3">I don't deserve to be so treated.</s>
+            <s sid="4" id="sample1.c45.s4">I am as grateful to Amy, and as fond of Amy, as it's
+                possible for any human being to be.</s>
+            <s sid="5" id="sample1.c45.s5">I wish I was dead.</s>
+            <s sid="6" id="sample1.c45.s6">I never was so wickedly wronged.</s>
+            <s sid="7" id="sample1.c45.s7">And only because I am anxious for the family
+                credit.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="46">
+        <p pid="49" id="NN.c26.p49" type="speech">
+            <s sid="1" id="sample1.c46.s1"><qs/>'He always is, d-a-amn him,'<qe/><sss/> replied the
+                client; <sse/><qs/>'and I want to steal a march upon him.</s>
+            <s sid="2" id="sample1.c46.s2">Ha, ha, ha!</s>
+            <s sid="3" id="sample1.c46.s3">He'll cut up so rough, Nickleby, at our talking together
+                without him.</s>
+            <s sid="4" id="sample1.c46.s4">Where does she live, Nickleby, that's all?</s>
+            <s sid="5" id="sample1.c46.s5">Only tell me where she lives, Nickleby.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="47">
+        <p pid="99" id="PP.c20.p99" type="speech">
+            <s sid="1" id="sample1.c47.s1"><qs/>'Not I,'<qe/> replied Mr. Pickwick, laughing; and
+                while Mr. Pickwick laughed, Sam Weller informed his parent in a whisper, of the
+                relation in which he stood towards that gentleman.</s>
+        </p>
+    </div>
+    <div book="sample1" num="48">
+        <p pid="59" id="BR.c29.p59" type="speech">
+            <s sid="1" id="sample1.c48.s1"><qs/>'The truth of what I tell you, dear young
+                lady,'<qe/><sss/> he replied, <sse/><qs/>'you will test by the receipt or
+                non-receipt of the letter of which I speak.</s>
+            <s sid="2" id="sample1.c48.s2">Haredale, my dear fellow, I am delighted to see you,
+                although we meet under singular circumstances, and upon a melancholy occasion.</s>
+            <s sid="3" id="sample1.c48.s3">I hope you are very well.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="49">
+        <p pid="31" id="NN.c17.p31" type="speech">
+            <s sid="1" id="sample1.c49.s1"><qs/>'Two!'<qe/> cried Mantalini.</s>
+            <s sid="2" id="sample1.c49.s2"><qs/>'Two demd fine women, real countesses and splendid
+                fortunes, demmit.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="50">
+        <p pid="36" id="OT.c2.p36" type="speech">
+            <s sid="1" id="sample1.c50.s1"><qs/>'Will you go along with me, Oliver?'<qe/> said Mr.
+                Bumble, in a majestic voice.</s>
+        </p>
+    </div>
+    <div book="sample1" num="51">
+        <p pid="60" id="MC.c16.p60" type="speech">
+            <s sid="1" id="sample1.c51.s1"><qs/>'You have heard of Jefferson Brick, I see,
+                sir,'<qe/> quoth the colonel, with a smile.</s>
+            <s sid="2" id="sample1.c51.s2"><qs/>'England has heard of Jefferson Brick.</s>
+            <s sid="3" id="sample1.c51.s3">Europe has heard of Jefferson Brick.</s>
+            <s sid="4" id="sample1.c51.s4">Let me see.</s>
+            <s sid="5" id="sample1.c51.s5">When did you leave England, sir?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="53">
+        <p pid="374" id="HM.c2.p374" type="speech">
+            <s sid="1" id="sample1.c53.s1"><qs/>"He says, in his wandering, that you know him; that
+                he was your friend once, long ago; that he is the ruined father of a student
+                here--my mind misgives me, of the young gentleman who has been ill. What is to be
+                done?</s>
+            <s sid="2" id="sample1.c53.s2">How is he to be followed?</s>
+            <s sid="3" id="sample1.c53.s3">How is he to be saved?</s>
+            <s sid="4" id="sample1.c53.s4">Mr. Redlaw, pray, oh, pray, advise me!</s>
+            <s sid="5" id="sample1.c53.s5">Help me!"<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="54">
+        <p pid="21" id="MC.c17.p21" type="speech">
+            <s sid="1" id="sample1.c54.s1">It would not have been very difficult for any one to see;
+                but it was particularly easy for Martin, whose perceptions were sharpened by his
+                circumstances, to discern; that the stranger's face grew infinitely longer as the
+                domestic-architecture project was developed.</s>
+            <s sid="2" id="sample1.c54.s2">Nor, although he made a great effort to be as encouraging
+                as possible, could he prevent his head from shaking once involuntarily, as if it
+                said in the vulgar tongue, upon its own account, <qs/>'No go!'<qe/></s>
+            <s sid="3" id="sample1.c54.s3">But he spoke in a cheerful tone, and said, that although
+                there was no such opening as Martin wished, in that city, he would make it matter of
+                immediate consideration and inquiry where one was most likely to exist; and then he
+                made Martin acquainted with his name, which was Bevan; and with his profession,
+                which was physic, though he seldom or never practiced; and with other circumstances
+                connected with himself and family, which fully occupied the time, until they reached
+                the Rowdy Journal Office.</s>
+        </p>
+    </div>
+    <div book="sample1" num="55">
+        <p pid="24" id="PP.c9.p24" type="speech">
+            <s sid="1" id="sample1.c55.s1"><qs/>'I won't be held!'<qe/> cried the old man.</s>
+            <s sid="2" id="sample1.c55.s2"><qs/>'Mr. Winkle, take your hands off.</s>
+            <s sid="3" id="sample1.c55.s3">Mr. Pickwick, let me go, sir!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="56">
+        <p pid="64" id="PP.c25.p64" type="speech">
+            <s sid="1" id="sample1.c56.s1"><qs/>'I shall require good bail,'<qe/> said the
+                magistrate.</s>
+        </p>
+    </div>
+    <div book="sample1" num="57">
+        <p pid="67" id="GE.c57.p67" type="speech">
+            <s sid="1" id="sample1.c57.s1"><qs/>"Did you hear anything of his circumstances,
+                Joe?"<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="58">
+        <p pid="4" id="OCS.c57.p4" type="speech">
+            <s sid="1" id="sample1.c58.s1"><qs/>'Ha ha!'<qe/> he would cry.</s>
+            <s sid="2" id="sample1.c58.s2"><qs/>'Here's the pony again!</s>
+            <s sid="3" id="sample1.c58.s3">Most remarkable pony, extremely docile, eh, Mr Richard,
+                eh sir?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="59">
+        <p pid="19" id="PP.c56.p19" type="speech">
+            <s sid="1" id="sample1.c59.s1"><qs/>'Remarkably so, indeed,'<qe/> replied Mr. Pickwick.</s>
+            <s sid="2" id="sample1.c59.s2"><qs/>'Very seasonable.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="60">
+        <p pid="143" id="BL.c3.p143" type="speech">
+            <s sid="1" id="sample1.c60.s1"><qs/>'When Marion went away, she wrote me, here, that you
+                had once left her a sacred trust to me, and that now she left you, Alfred, such a
+                trust in my hands: praying and beseeching me, as I loved her, and as I loved you,
+                not to reject the affection she believed (she knew, she said) you would transfer to
+                me when the new wound was healed, but to encourage and return it.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="61">
+        <p pid="10" id="OMF.c66.p10" type="speech">
+            <s sid="1" id="sample1.c61.s1"><qs/>'Neither do I understand,'<qe/><sls/> retorted Mrs
+                Wilfer, with deep scorn, <sle/><qs/>'how a young lady can mention the garment in the
+                name of which you have indulged.</s>
+            <s sid="2" id="sample1.c61.s2">I blush for you.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="62">
+        <p pid="85" id="MC.c51.p85" type="speech">
+            <s sid="1" id="sample1.c62.s1"><qs/>'Oh, brother!'<qe/> cried old Martin, clasping his
+                hands and lifting up his eyes.</s>
+            <s sid="2" id="sample1.c62.s2"><qs/>'Oh, brother, brother!</s>
+            <s sid="3" id="sample1.c62.s3">Were we strangers half our lives that you might breed a
+                wretch like this, and I make life a desert by withering every flower that grew about
+                me!</s>
+            <s sid="4" id="sample1.c62.s4">Is it the natural end of your precepts and mine, that
+                this should be the creature of your rearing, training, teaching, hoarding, striving
+                for; and I the means of bringing him to punishment, when nothing can repair the
+                wasted past!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="63">
+        <p pid="119" id="NN.c25.p119" type="speech">
+            <s sid="1" id="sample1.c63.s1"><qs/>'To hang himself!'<qe/> cried Mr Lillyvick again.</s>
+            <s sid="2" id="sample1.c63.s2"><qs/>'Is any parallel attempted to be drawn in this
+                company between matrimony and hanging?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="64">
+        <p pid="54" id="DC.c43.p54" type="speech">
+            <s sid="1" id="sample1.c64.s1"><qs/>'Are you happy now, you foolish boy?'<qe/><sss/>
+                says Dora, <sse/><qs/>'and sure you don't repent?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="65">
+        <p pid="45" id="OMF.c7.p45" type="speech">
+            <s sid="1" id="sample1.c65.s1">To which Mr Venus only replies, shaking his shock of
+                dusty hair, and winking his weak eyes, <qs/>'Don't sauce ME, in the wicious pride of
+                your youth; don't hit ME, because you see I'm down.</s>
+            <s sid="2" id="sample1.c65.s2">You've no idea how small you'd come out, if I had the
+                articulating of you.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="66">
+        <p pid="67" id="BR.c69.p67" type="speech">
+            <s sid="1" id="sample1.c66.s1"><qs/>'Well!'<qe/><sss/> said Mr Dennis, mournfully, <sse/><qs/>'if you
+                an't enough to make a man mistrust his feller-creeturs, I don't know what is.</s>
+            <s sid="2" id="sample1.c66.s2">Desert the banners!</s>
+            <s sid="3" id="sample1.c66.s3">Me!</s>
+            <s sid="4" id="sample1.c66.s4">Ned Dennis, as was so christened by his own father!--Is
+                this axe your'n, brother?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="67">
+        <p pid="80" id="OMF.c25.p80" type="speech">
+            <s sid="1" id="sample1.c67.s1"><qs/>'We have been quarrelling here a little, Mr
+                Rokesmith, but not more than we used; you know our agreeable ways among ourselves.</s>
+            <s sid="2" id="sample1.c67.s2">You find me just going.</s>
+            <s sid="3" id="sample1.c67.s3">Good-bye, mamma.</s>
+            <s sid="4" id="sample1.c67.s4">Good- bye, Lavvy!'<qe/> and with a kiss for each Miss
+                Bella turned to the door.</s>
+            <s sid="5" id="sample1.c67.s5">The Secretary would have attended her, but Mrs Wilfer
+                advancing and saying with dignity, <qs/>'Pardon me!</s>
+            <s sid="6" id="sample1.c67.s6">Permit me to assert my natural right to escort my child
+                to the equipage which is in waiting for her,'<qe/> he begged pardon and gave place.</s>
+            <s sid="7" id="sample1.c67.s7">It was a very magnificent spectacle indeed, too see Mrs
+                Wilfer throw open the house-door, and loudly demand with extended gloves, <qs/>'The
+                male domestic of Mrs Boffin!'<qe/></s>
+            <s sid="8" id="sample1.c67.s8">To whom presenting himself, she delivered the brief but
+                majestic charge, <qs/>'Miss Wilfer.</s>
+            <s sid="9" id="sample1.c67.s9">Coming out!'<qe/> and so delivered her over, like a
+                female Lieutenant of the Tower relinquishing a State Prisoner.</s>
+            <s sid="10" id="sample1.c67.s10">The effect of this ceremonial was for some quarter of
+                an hour afterwards perfectly paralyzing on the neighbours, and was much enhanced by
+                the worthy lady airing herself for that term in a kind of splendidly serene trance
+                on the top step.</s>
+        </p>
+    </div>
+    <div book="sample1" num="68">
+        <p pid="17" id="HT.c21.p17" type="speech">
+            <s sid="1" id="sample1.c68.s1"><qs/>'Ah!'<qe/><sls/> said Mr. Bounderby, with his thumbs in
+                the arms of his coat, and jerking his head and shutting his eyes in confidence with
+                the opposite wall: <sle/><qs/>'how it happens.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="69">
+        <p pid="48" id="DC.c39.p48" type="speech">
+            <s sid="1" id="sample1.c69.s1"><qs/>'And there is not another word to tell, Agnes,'<qe/>
+                said I, when I had made an end of my confidence.</s>
+            <s sid="2" id="sample1.c69.s2"><qs/>'Now, my reliance is on you.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="70">
+        <p pid="49" id="TTC.c15.p49" type="speech">
+            <s sid="1" id="sample1.c70.s1"><qs/>"I perceive that, happily for me, the Reception of
+                the day before yesterday was, as usual, a cold one,"<qe/> observed the nephew.</s>
+        </p>
+    </div>
+    <div book="sample1" num="71">
+        <p pid="92" id="DC.c46.p92" type="speech">
+            <s sid="1" id="sample1.c71.s1"><qs/>'Mas'r Davy!</s>
+            <s sid="2" id="sample1.c71.s2">Thankee, sir! thankee hearty, for this visit!</s>
+            <s sid="3" id="sample1.c71.s3">Sit ye down.</s>
+            <s sid="4" id="sample1.c71.s4">You're kindly welcome, sir!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="72">
+        <p pid="60" id="CHI.c3.p60" type="speech">
+            <s sid="1" id="sample1.c72.s1"><qs/>'What are these?'<qe/> he asked his guide.</s>
+            <s sid="2" id="sample1.c72.s2"><qs/>'If I am not mad, what are these?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="73">
+        <p pid="11" id="BR.c74.p11" type="speech">
+            <s sid="1" id="sample1.c73.s1"><qs/>'I say,'<qe/><sss/> interposed the other quickly,
+                <sse/><qs/>'what are you talking of?</s>
+            <s sid="2" id="sample1.c73.s2">Don't.</s>
+            <s sid="3" id="sample1.c73.s3">Who's a-going to be cut off in their flowers?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="74">
+        <p pid="66" id="BR.c6.p66" type="speech">
+            <s sid="1" id="sample1.c74.s1"><qs/>'Look at him!'<qe/> said Varden, divided between
+                admiration of the bird and a kind of fear of him.</s>
+            <s sid="2" id="sample1.c74.s2"><qs/>'Was there ever such a knowing imp as that!</s>
+            <s sid="3" id="sample1.c74.s3">Oh he's a dreadful fellow!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="75">
+        <p pid="20" id="NN.c18.p20" type="speech">
+            <s sid="1" id="sample1.c75.s1"><qs/>'Bless you!'<qe/><sls/> said Miss Knag, bestowing a
+                kiss upon Kate at the conclusion of the second day's work, <sle/><qs/>'how very
+                awkward you have been all day.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="76">
+        <p pid="28" id="HT.c2.p28" type="speech">
+            <s sid="1" id="sample1.c76.s1"><qs/>'You must paper it,'<qe/> said the gentleman, rather
+                warmly.</s>
+        </p>
+    </div>
+    <div book="sample1" num="77">
+        <p pid="127" id="DC.c25.p127" type="speech">
+            <s sid="1" id="sample1.c77.s1"><qs/>'Well!</s>
+            <s sid="2" id="sample1.c77.s2">Uriah,'<qe/> said I, bolting it out with some
+            difficulty.</s>
+        </p>
+    </div>
+    <div book="sample1" num="78">
+        <p pid="14" id="TTC.c24.p14" type="speech">
+            <s sid="1" id="sample1.c78.s1"><qs/>"Then, I think,"<qe/><sss/> said Mr. Lorry,
+                <sse/><qs/>"that I was very unhandsomely dealt with, and that I ought to have had a
+                voice in the selection of my pattern.</s>
+            <s sid="2" id="sample1.c78.s2">Enough!</s>
+            <s sid="3" id="sample1.c78.s3">Now, my dear Lucie,"<qe/><sls/> drawing his arm
+                soothingly round her waist, <sle/><qs/>"I hear them moving in the next room, and
+                Miss Pross and I, as two formal folks of business, are anxious not to lose the final
+                opportunity of saying something to you that you wish to hear.</s>
+            <s sid="4" id="sample1.c78.s4">You leave your good father, my dear, in hands as earnest
+                and as loving as your own; he shall be taken every conceivable care of; during the
+                next fortnight, while you are in Warwickshire and thereabouts, even Tellson's shall
+                go to the wall (comparatively speaking) before him.</s>
+            <s sid="5" id="sample1.c78.s5">And when, at the fortnight's end, he comes to join you
+                and your beloved husband, on your other fortnight's trip in Wales, you shall say
+                that we have sent him to you in the best health and in the happiest frame.</s>
+            <s sid="6" id="sample1.c78.s6">Now, I hear Somebody's step coming to the door.</s>
+            <s sid="7" id="sample1.c78.s7">Let me kiss my dear girl with an old-fashioned bachelor
+                blessing, before Somebody comes to claim his own."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="79">
+        <p pid="107" id="OMF.c46.p107" type="speech">
+            <s sid="1" id="sample1.c79.s1"><qs/>'You are not the godmother at all!'<qe/> said she.</s>
+            <s sid="2" id="sample1.c79.s2"><qs/>'You are the Wolf in the Forest, the wicked Wolf!</s>
+            <s sid="3" id="sample1.c79.s3">And if ever my dear Lizzie is sold and betrayed, I shall
+                know who sold and betrayed her!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="81">
+        <p pid="14" id="OCS.c18.p14" type="speech">
+            <s sid="1" id="sample1.c81.s1"><qs/>'Who are they?'<qe/> whispered the landlord.</s>
+            <s sid="2" id="sample1.c81.s2">Short shook his head, and wished he knew himself.</s>
+            <s sid="3" id="sample1.c81.s3"><qs/>'Don't you know?'<qe/> asked the host, turning to Mr
+                Codlin.</s>
+            <s sid="4" id="sample1.c81.s4"><qs/>'Not I,'<qe/> he replied.</s>
+            <s sid="5" id="sample1.c81.s5"><qs/>'They're no good, I suppose.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="82">
+        <p pid="8" id="OMF.c15.p8" type="speech">
+            <s sid="1" id="sample1.c82.s1"><qs/>'Sit down, sir,'<qe/> said Mr Boffin, shaking hands
+                with him.</s>
+            <s sid="2" id="sample1.c82.s2"><qs/>'Mrs Boffin you're already acquainted with.</s>
+            <s sid="3" id="sample1.c82.s3">Well, sir, I am rather unprepared to see you, for, to
+                tell you the truth, I've been so busy with one thing and another, that I've not had
+                time to turn your offer over.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="83">
+        <p pid="224" id="SB.c56.p224" type="speech">
+            <s sid="1" id="sample1.c83.s1"><qs/>'Good night, Timson,'<qe/> said Parsons, hurrying
+                off, and carrying the bewildered Tottle with him.</s>
+        </p>
+    </div>
+    <div book="sample1" num="84">
+        <p pid="32" id="BH.c58.p32" type="speech">
+            <s sid="1" id="sample1.c84.s1"><qs/>"Miss Dedlock don't speak of my eldest son, Sir
+                Leicester, but my youngest.</s>
+            <s sid="2" id="sample1.c84.s2">I have found him.</s>
+            <s sid="3" id="sample1.c84.s3">He has come home."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="85">
+        <p pid="62" id="LD.c20.p62" type="speech">
+            <s sid="1" id="sample1.c85.s1"><qs/>'And I told you, Mrs Merdle,'<qe/><sss/> said Fanny,
+                <sse/><qs/>'that if you spoke to me of the superiority of your son's standing in
+                Society, it was barely possible that you rather deceived yourself in your
+                suppositions about my origin; and that my father's standing, even in the Society in
+                which he now moved (what that was, was best known to myself), was eminently
+                superior, and was acknowledged by every one.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="86">
+        <p pid="4" id="UT.c37.p4" type="speech">
+            <s sid="1" id="sample1.c86.s1">The procession was composed of a series of smaller
+                processions, which had come together, each from its own metropolitan district.</s>
+            <s sid="2" id="sample1.c86.s2">An infusion of allegory became perceptible when patriotic
+                Peckham advanced.</s>
+            <s sid="3" id="sample1.c86.s3">So I judged, from the circumstance of Peckham's unfurling
+                a silken banner that fanned heaven and earth with the words, <qs/>'The Peckham
+                Lifeboat.'<qe/></s>
+            <s sid="4" id="sample1.c86.s4">No boat being in attendance, though life, in the likeness
+                of <qs/>'a gallant, gallant crew,'<qe/> in nautical uniform, followed the flag, I
+                was led to meditate on the fact that Peckham is described by geographers as an
+                inland settlement, with no larger or nearer shore-line than the towing-path of the
+                Surrey Canal, on which stormy station I had been given to understand no lifeboat
+                exists.</s>
+            <s sid="5" id="sample1.c86.s5">Thus I deduced an allegorical meaning, and came to the
+                conclusion, that if patriotic Peckham picked a peck of pickled poetry, this WAS the
+                peck of pickled poetry which patriotic Peckham picked.</s>
+        </p>
+    </div>
+    <div book="sample1" num="87">
+        <p pid="32" id="CHI.c3.p32" type="speech">
+            <s sid="1" id="sample1.c87.s1"><qs/>'Spare me!'<qe/><sls/> cried Trotty, falling on his
+                knees; <sle/><qs/>'for Mercy's sake!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="88">
+        <p pid="46" id="OT.c25.p46" type="speech">
+            <s sid="1" id="sample1.c88.s1"><qs/>'First and foremost, Faguey,'<qe/> said Toby.</s>
+        </p>
+    </div>
+    <div book="sample1" num="89">
+        <p pid="42" id="OT.c37.p42" type="speech">
+            <s sid="1" id="sample1.c89.s1"><qs/>'It's very true, you're matron here, my
+                dear,'<qe/><sss/> submitted Mr. Bumble; <sse/><qs/>'but I thought you mightn't be in
+                the way just then.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="90">
+        <p pid="21" id="SB.c85.p21" type="speech">
+            <s sid="1" id="sample1.c90.s1"><qs/>'It would kill them with envy,'<qe/> said Mrs.
+                Tulrumble.</s>
+        </p>
+    </div>
+    <div book="sample1" num="91">
+        <p pid="22" id="PP.c34.p22" type="speech">
+            <s sid="1" id="sample1.c91.s1"><qs/>'Here,'<qe/> said the chemist.</s>
+        </p>
+    </div>
+    <div book="sample1" num="92">
+        <p pid="24" id="DC.c47.p24" type="speech">
+            <s sid="1" id="sample1.c92.s1"><qs/>'Are you composed enough,'<qe/><sss/> said I,
+                <sse/><qs/>'to speak on the subject which so interested you - I hope Heaven may
+                remember it!</s>
+            <s sid="2" id="sample1.c92.s2">- that snowy night?'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="93">
+        <p pid="4" id="ED.c17.p4" type="speech">
+            <s sid="1" id="sample1.c93.s1"><qs/>'Sir,'<qe/><sls/> said Mr. Honeythunder, in his
+                tremendous voice, like a schoolmaster issuing orders to a boy of whom he had a bad
+                opinion, <sle/><qs/>'sit down.'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="94">
+        <p pid="51" id="NN.c22.p51" type="speech">
+            <s sid="1" id="sample1.c94.s1"><qs/>'Will you let me take the bundle now?'<qe/> asked
+                Nicholas, abruptly changing the theme.</s>
+        </p>
+    </div>
+    <div book="sample1" num="95">
+        <p pid="32" id="OCS.c37.p32" type="speech">
+            <s sid="1" id="sample1.c95.s1"><qs/>'To fairs, markets, races, and so forth, I
+                suppose?'<qe/> pursued the single gentleman.</s>
+        </p>
+    </div>
+    <div book="sample1" num="96">
+        <p pid="26" id="GE.c18.p26" type="speech">
+            <s sid="1" id="sample1.c96.s1"><qs/>"Now, follow that passage with your eye, and tell me
+                whether it distinctly states that the prisoner expressly said that he was instructed
+                by his legal advisers wholly to reserve his defence?</s>
+            <s sid="2" id="sample1.c96.s2">Come!</s>
+            <s sid="3" id="sample1.c96.s3">Do you make that of it?"<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="97">
+        <p pid="37" id="OMF.c6.p37" type="speech">
+            <s sid="1" id="sample1.c97.s1"><qs/>'That Gaffer has a skill in finding what he finds,
+                who doubts, man?'<qe/> asked Miss Abbey.</s>
+        </p>
+    </div>
+    <div book="sample1" num="98">
+        <p pid="12" id="BR.c71.p12" type="speech">
+            <s sid="1" id="sample1.c98.s1"><qs/>'Personal considerations, miss,'<qe/><sss/> rejoined
+                Miggs, <sse/><qs/>'sinks into nothing, afore a noble cause.</s>
+            <s sid="2" id="sample1.c98.s2">Ally Looyer!</s>
+            <s sid="3" id="sample1.c98.s3">Ally Looyer!</s>
+            <s sid="4" id="sample1.c98.s4">Ally Looyer, good gentlemen!'<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="99">
+        <p pid="53" id="TTC.c33.p53" type="speech">
+            <s sid="1" id="sample1.c99.s1"><qs/>"Tut, tut!"<qe/><sss/> said Mr. Lorry;
+                <sse/><qs/>"what is this despondency in the brave little breast?</s>
+            <s sid="2" id="sample1.c99.s2">A shadow indeed!</s>
+            <s sid="3" id="sample1.c99.s3">No substance in it, Lucie."<qe/></s>
+        </p>
+    </div>
+    <div book="sample1" num="100">
+        <p pid="79" id="OMF.c15.p79" type="speech">
+            <s sid="1" id="sample1.c100.s1"><qs/>'Ay, ay, that's another thing.</s>
+            <s sid="2" id="sample1.c100.s2">I may sell THEM, though I should be sorry to see the
+                neighbourhood deprived of 'em too.</s>
+            <s sid="3" id="sample1.c100.s3">It'll look but a poor dead flat without the Mounds.</s>
+            <s sid="4" id="sample1.c100.s4">Still I don't say that I'm going to keep 'em always
+                there, for the sake of the beauty of the landscape.</s>
+            <s sid="5" id="sample1.c100.s5">There's no hurry about it; that's all I say at present.</s>
+            <s sid="6" id="sample1.c100.s6">I ain't a scholar in much, Rokesmith, but I'm a pretty
+                fair scholar in dust.</s>
+            <s sid="7" id="sample1.c100.s7">I can price the Mounds to a fraction, and I know how
+                they can be best disposed of; and likewise that they take no harm by standing where
+                they do.</s>
+            <s sid="8" id="sample1.c100.s8">You'll look in to-morrow, will you be so kind?'<qe/></s>
+        </p>
+    </div>
+</samples>
