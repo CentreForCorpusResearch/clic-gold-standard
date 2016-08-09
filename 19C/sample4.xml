@@ -1,0 +1,2499 @@
+<samples book="sample" num="4">
+    <div book="sample4" num="1">
+        <p pid="64" id="jane.c10.p64" type="speech">
+            <s sid="1" id="sample4.c1.s1"><qs/>"No, Miss Jane, not exactly: you are genteel enough;
+                you look like a lady, and it is as much as ever I expected of you: you were no
+                beauty as a child."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="3">
+        <p pid="15" id="alli.c5.p15" type="speech">
+            <s sid="1" id="sample4.c3.s1"><qs/>"What is it you want me to say?
+            </s>
+            <s sid="2" id="sample4.c3.s2">You pretend to know all about it, and it wouldn't be civil
+                in me to contradict you."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="4">
+        <p pid="40" id="emma.c24.p40" type="speech">
+            <s sid="1" id="sample4.c4.s1"><qs/>"It is a most repulsive quality, indeed,"
+                <qe/>
+                said he.
+            </s>
+            <s sid="2" id="sample4.c4.s2"><qs/>"Oftentimes very convenient, no doubt, but never
+                pleasing.
+            </s>
+            <s sid="3" id="sample4.c4.s3">There is safety in reserve, but no attraction.</s>
+            <s sid="4" id="sample4.c4.s4">One cannot love a reserved person."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="5">
+        <p pid="34" id="alli.c52.p34" type="speech">
+            <s sid="1" id="sample4.c5.s1"><qs/>"That's what Lady Julia says, and I always find her
+                to be right in things of that sort.
+            </s>
+            <s sid="2" id="sample4.c5.s2">And she says you'll have a better chance in going over
+                there than you would here, if she were in the same house with you.
+            </s>
+            <s sid="3" id="sample4.c5.s3">If I was going to make love to a girl, of course I'd
+                sooner have her close to me--staying in the same house.
+            </s>
+            <s sid="4" id="sample4.c5.s4">I should think it the best fun in the world.</s>
+            <s sid="5" id="sample4.c5.s5">And we might have had a dance, and all that kind of
+                thing.
+            </s>
+            <s sid="6" id="sample4.c5.s6">But I couldn't make her come, you know."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="6">
+        <p pid="39" id="alli.c38.p39" type="speech">
+            <s sid="1" id="sample4.c6.s1"><qs/>"We can get in somewhere,"
+                <qe/>
+                continued Bell.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="7">
+        <p pid="68" id="native.c3.p68" type="speech">
+            <s sid="1" id="sample4.c7.s1"><qs/>"Is he known in these parts?"
+                <qe/>
+                said Olly
+                Dowden.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="8">
+        <p pid="125" id="dorian.c2.p125" type="speech">
+            <s sid="1" id="sample4.c8.s1"><qs/>"I must go, Basil,"
+                <qe/>
+                he answered.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="9">
+        <p pid="18" id="mill.c18.p18" type="speech">
+            <s sid="1" id="sample4.c9.s1">But Tom looked round warily as he walked to the closet;
+                then he stepped into the narrow space, and almost closed the door.
+            </s>
+            <s sid="2" id="sample4.c9.s2">Maggie kept her face buried without the aid of principle,
+                for in that dream-suggestive attitude she had soon forgotten where she was, and her
+                thoughts were busy with the poor deformed boy, who was so clever, when Tom called
+                out,<qs/>"Now then, Magsie!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="10">
+        <p pid="17" id="Pomp.c26.p17" type="speech">
+            <s sid="1" id="sample4.c10.s1">The lane was overshadowed with trees, beneath the amplest
+                of which Glaucus drew Ione.
+            </s>
+            <s sid="2" id="sample4.c10.s2">He endeavored, by stripping his own cloak, to shield her
+                yet more from the rapid rain; but it descended with a fury that broke through all
+                puny obstacles: and suddenly, while Glaucus was yet whispering courage to his
+                beautiful charge, the lightning struck one of the trees immediately before them, and
+                split with a mighty crash its huge trunk in twain.
+            </s>
+            <s sid="3" id="sample4.c10.s3">This awful incident apprised them of the danger they
+                braved in their present shelter, and Glaucus looked anxiously round for some less
+                perilous place of refuge.
+            </s>
+            <s sid="4" id="sample4.c10.s4"><qs/>'We are now,'
+                <qe/>
+                <sss/>
+                said he,
+                <sse/>
+                <qs/>'half-way up the ascent of Vesuvius; there ought to be some cavern, or
+                hollow in the vine-clad rocks, could we but find it, in which the deserting Nymphs
+                have left a shelter.'
+                <qe/>
+            </s>
+            <s sid="5" id="sample4.c10.s5">While thus saying he moved from the trees, and, looking
+                wistfully towards the mountain, discovered through the advancing gloom a red and
+                tremulous light at no considerable distance.
+            </s>
+            <s sid="6" id="sample4.c10.s6"><qs/>'That must come,'
+                <qe/>
+                <sss/>
+                said he,
+                <sse/>
+                <qs/>'from the hearth of some shepherd or vine-dresser--it will guide us to
+                some hospitable retreat.
+            </s>
+            <s sid="7" id="sample4.c10.s7">Wilt thou stay here, while I--yet no--that would be to
+                leave thee to danger.'
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="11">
+        <p pid="71" id="native.c33.p71" type="speech">
+            <s sid="1" id="sample4.c11.s1"><qs/>"I have seen what's worse--a woman's face looking at
+                me through a window-pane."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="12">
+        <p pid="14" id="LadyAud.c36.p14" type="speech">
+            <s sid="1" id="sample4.c12.s1"><qs/>"Is it not about your own--health--that you wish to
+                consult me?"
+                <qe/>
+                he said, interrogatively.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="13">
+        <p pid="12" id="jane.c21.p12" type="speech">
+            <s sid="1" id="sample4.c13.s1"><qs/>"Mr. John?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="14">
+        <p pid="31" id="emma.c38.p31" type="speech">
+            <s sid="1" id="sample4.c14.s1">Escape, however, was not his plan.</s>
+            <s sid="2" id="sample4.c14.s2">He came to the part of the room where the sitters-by were
+                collected, spoke to some, and walked about in front of them, as if to shew his
+                liberty, and his resolution of maintaining it.
+            </s>
+            <s sid="3" id="sample4.c14.s3">He did not omit being sometimes directly before Miss
+                Smith, or speaking to those who were close to her.-- Emma saw it.
+            </s>
+            <s sid="4" id="sample4.c14.s4">She was not yet dancing; she was working her way up from
+                the bottom, and had therefore leisure to look around, and by only turning her head a
+                little she saw it all.
+            </s>
+            <s sid="5" id="sample4.c14.s5">When she was half-way up the set, the whole group were
+                exactly behind her, and she would no longer allow her eyes to watch; but Mr. Elton
+                was so near, that she heard every syllable of a dialogue which just then took place
+                between him and Mrs. Weston; and she perceived that his wife, who was standing
+                immediately above her, was not only listening also, but even encouraging him by
+                significant glances.--The kind-hearted, gentle Mrs. Weston had left her seat to join
+                him and say,<qs/>"Do not you dance, Mr. Elton?"
+                <qe/>
+                <sls/>
+                to which his prompt reply was,
+                <sle/>
+                <qs/>"Most
+                readily, Mrs. Weston, if you will dance with me."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="15">
+        <p pid="77" id="LadyAud.c38.p77" type="speech">
+            <s sid="1" id="sample4.c15.s1"><qs/>"I told you what I suspected; what I think
+                still."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="16">
+        <p pid="12" id="LadyAud.c20.p12" type="speech">
+            <s sid="1" id="sample4.c16.s1"><qs/>"Mr. Maldon is not at home, sir,"
+                <qe/>
+                <sls/>
+                she
+                said, with insinuating civility;
+                <sle/>
+                <qs/>"but if it's for the water-rate, he
+                requested me to say that--"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="17">
+        <p pid="81" id="wh.c17.p81" type="speech">
+            <s sid="1" id="sample4.c17.s1">I confess this blow was greater to me than the shock of
+                Mrs. Linton's death: ancient associations lingered round my heart; I sat down in the
+                porch and wept as for a blood relation, desiring Mr. Kenneth to get another servant
+                to introduce him to the master.
+            </s>
+            <s sid="2" id="sample4.c17.s2">I could not hinder myself from pondering on the question
+                -<qs/>'Had he had fair play?'
+                <qe/>
+            </s>
+            <s sid="3" id="sample4.c17.s3">Whatever I did, that idea would bother me: it was so
+                tiresomely pertinacious that I resolved on requesting leave to go to Wuthering
+                Heights, and assist in the last duties to the dead.
+            </s>
+            <s sid="4" id="sample4.c17.s4">Mr. Linton was extremely reluctant to consent, but I
+                pleaded eloquently for the friendless condition in which he lay; and I said my old
+                master and foster-brother had a claim on my services as strong as his own.
+            </s>
+            <s sid="5" id="sample4.c17.s5">Besides, I reminded him that the child Hareton was his
+                wife's nephew, and, in the absence of nearer kin, he ought to act as its guardian;
+                and he ought to and must inquire how the property was left, and look over the
+                concerns of his brother-in- law.
+            </s>
+            <s sid="6" id="sample4.c17.s6">He was unfit for attending to such matters then, but he
+                bid me speak to his lawyer; and at length permitted me to go.
+            </s>
+            <s sid="7" id="sample4.c17.s7">His lawyer had been Earnshaw's also:</s>
+            <s sid="8" id="sample4.c17.s8">I called at the village, and asked him to accompany
+                me.
+            </s>
+            <s sid="9" id="sample4.c17.s9">He shook his head, and advised that Heathcliff should be
+                let alone; affirming, if the truth were known, Hareton would be found little else
+                than a beggar.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="18">
+        <p pid="38" id="sybil.c57.p38" type="speech">
+            <s sid="1" id="sample4.c18.s1"><qs/>"Are you certain of your facts?"
+                <qe/>
+                at length said
+                Morley abruptly stopping.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="19">
+        <p pid="17" id="alli.c20.p17" type="speech">
+            <s sid="1" id="sample4.c19.s1"><qs/>"It is a hard thing to do, but I will determine to
+                think of it no further.
+            </s>
+            <s sid="2" id="sample4.c19.s2">I believe a man may be as happy single as he may
+                married--almost."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="20">
+        <p pid="34" id="wwhite.c34.p34" type="speech">
+            <s sid="1" id="sample4.c20.s1"><qs/>"The only danger,"
+                <qe/>
+                <sss/>
+                I replied,
+                <sse/>
+                <qs/>"is that Sir Percival Glyde may have been recalled to London by the news
+                of Laura's escape.
+            </s>
+            <s sid="2" id="sample4.c20.s2">You are aware that he had me watched before I left
+                England, and that he probably knows me by sight, although I don't know
+                him?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="21">
+        <p pid="110" id="jane.c20.p110" type="speech">
+            <s sid="1" id="sample4.c21.s1"><qs/>"Well what is it?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="22">
+        <p pid="88" id="Deronda.c29.p88" type="speech">
+            <s sid="1" id="sample4.c22.s1"><qs/>"But you do admit that we can't help things,"
+                <qe/>
+                said Gwendolen, with a drop in her tone.
+            </s>
+            <s sid="2" id="sample4.c22.s2">The answer had not been anything like what she had
+                expected.
+            </s>
+            <s sid="3" id="sample4.c22.s3"><qs/>"I mean that things are so in spite of us; we can't
+                always help it that our gain is another's loss."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="23">
+        <p pid="7" id="Tess.c56.p7" type="speech">
+            <s sid="1" id="sample4.c23.s1"><qs/>"O--O--O!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="24">
+        <p pid="28" id="sybil.c2.p28" type="speech">
+            <s sid="1" id="sample4.c24.s1"><qs/>"You look a little low, Charley,"
+                <qe/>
+                said Lord
+                Fitzheron, as taking their lunch in their drag he poured the champagne into the
+                glass of Egremont.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="25">
+        <p pid="2" id="mill.c45.p2" type="speech">
+            <s sid="1" id="sample4.c25.s1">Thus Maggie was introduced for the first time to the
+                young lady's life, and knew what it was to get up in the morning without any
+                imperative reason for doing one thing more than another.
+            </s>
+            <s sid="2" id="sample4.c25.s2">This new sense of leisure and unchecked enjoyment amidst
+                the soft-breathing airs and garden-scents of advancing spring--amidst the new
+                abundance of music, and lingering strolls in the sunshine, and the delicious
+                dreaminess of gliding on the river--could hardly be without some intoxicating effect
+                on her, after her years of privation; and even in the first week Maggie began to be
+                less haunted by her sad memories and anticipations.
+            </s>
+            <s sid="3" id="sample4.c25.s3">Life was certainly very pleasant just now; it was
+                becoming very pleasant to dress in the evening, and to feel that she was one of the
+                beautiful things of this spring-time.
+            </s>
+            <s sid="4" id="sample4.c25.s4">And there were admiring eyes always awaiting her now; she
+                was no longer an unheeded person, liable to be chid, from whom attention was
+                continually claimed, and on whom no one felt bound to confer any.
+            </s>
+            <s sid="5" id="sample4.c25.s5">It was pleasant, too, when Stephen and Lucy were gone out
+                riding, to sit down at the piano alone, and find that the old fitness between her
+                fingers and the keys remained, and revived, like a sympathetic kinship not to be
+                worn out by separation; to get the tunes she had heard the evening before, and
+                repeat them again and again until she had found out a way of producing them so as to
+                make them a more pregnant, passionate language to her.
+            </s>
+            <s sid="6" id="sample4.c25.s6">The mere concord of octaves was a delight to Maggie, and
+                she would often take up a book of studies rather than any melody, that she might
+                taste more keenly by abstraction the more primitive sensation of intervals.
+            </s>
+            <s sid="7" id="sample4.c25.s7">Not that her enjoyment of music was of the kind that
+                indicates a great specific talent; it was rather that her sensibility to the supreme
+                excitement of music was only one form of that passionate sensibility which belonged
+                to her whole nature, and made her faults and virtues all merge in each other; made
+                her affections sometimes an impatient demand, but also prevented her vanity from
+                taking the form of mere feminine coquetry and device, and gave it the poetry of
+                ambition.
+            </s>
+            <s sid="8" id="sample4.c25.s8">But you have known Maggie a long while, and need to be
+                told, not her characteristics, but her history, which is a thing hardly to be
+                predicted even from the completest knowledge of characteristics.
+            </s>
+            <s sid="9" id="sample4.c25.s9">For the tragedy of our lives is not created entirely from
+                within.
+            </s>
+            <s sid="10" id="sample4.c25.s10"><qs/>"Character,"
+                <qe/>
+                <sls/>
+                says Novalis, in one of
+                his questionable aphorisms,--
+                <sle/>
+                <qs/>"character is destiny."
+                <qe/>
+            </s>
+            <s sid="11" id="sample4.c25.s11">But not the whole of our destiny.</s>
+            <s sid="12" id="sample4.c25.s12">Hamlet, Prince of Denmark, was speculative and
+                irresolute, and we have a great tragedy in consequence.
+            </s>
+            <s sid="13" id="sample4.c25.s13">But if his father had lived to a good old age, and his
+                uncle had died an early death, we can conceive Hamlet's having married Ophelia, and
+                got through life with a reputation of sanity, notwithstanding many soliloquies, and
+                some moody sarcasms toward the fair daughter of Polonius, to say nothing of the
+                frankest incivility to his father-in-law.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="26">
+        <p pid="18" id="vanity.c15.p18" type="speech">
+            <s sid="1" id="sample4.c26.s1"><qs/>"It does not seem to break your heart at any
+                rate,"
+                <qe/>
+                Miss Crawley remarked.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="27">
+        <p pid="82" id="alli.c25.p82" type="speech">
+            <s sid="1" id="sample4.c27.s1"><qs/>"There are some actions, Mr Dale, that will make a
+                coward of any man.
+            </s>
+            <s sid="2" id="sample4.c27.s2">My friend Crosbie is, I take it, brave enough in the
+                ordinary sense of the word, but he has injured you."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="28">
+        <p pid="9" id="frank.c16.p9">
+            <s sid="1" id="sample4.c28.s1">"<alt-qs/>'Do you consider,'
+                <alt-qe/>
+                <sls/> said his companion to him, <sle/><alt-qs/>'that you
+                will be obliged to pay three months' rent and to lose the produce of your
+                garden?
+            </s>
+            <s sid="2" id="sample4.c28.s2">I do not wish to take any unfair advantage, and I beg
+                therefore that you will take some days to consider of your determination.'
+                <alt-qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="29">
+        <p pid="3" id="Tess.c42.p3" type="speech">
+            <s sid="1" id="sample4.c29.s1"><qs/>"What a mommet of a maid!"
+                <qe/>
+                said the next man
+                who met her to a companion.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="30">
+        <p pid="127" id="jane.c24.p127" type="speech">
+            <s sid="1" id="sample4.c30.s1"><qs/>"You need not look in that way,"
+                <qe/>
+                <sss/>
+                I said;
+                <sse/>
+                <qs/>"if you do, I'll wear nothing but my old Lowood frocks to the end of the
+                chapter.
+            </s>
+            <s sid="2" id="sample4.c30.s2">I'll be married in this lilac gingham: you may make a
+                dressing-gown for yourself out of the pearl-grey silk, and an infinite series of
+                waistcoats out of the black satin."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="32">
+        <p pid="22" id="Tess.c40.p22" type="speech">
+            <s sid="1" id="sample4.c32.s1"><qs/>"It was so dismal there that I left!
+            </s>
+            <s sid="2" id="sample4.c32.s2">I am staying out this way."
+                <qe/>
+            </s>
+            <s sid="3" id="sample4.c32.s3">She pointed in a contrary direction, the direction in
+                which he was journeying.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="33">
+        <p pid="26" id="Prof.c16.p26" type="speech">
+            <s sid="1" id="sample4.c33.s1"><qs/>"Since your mother is an Englishwoman, why do you
+                not speak English with more facility?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="34">
+        <p pid="22" id="jane.c22.p22" type="speech">
+            <s sid="1" id="sample4.c34.s1"><qs/>"A true Janian reply!
+            </s>
+            <s sid="2" id="sample4.c34.s2">Good angels be my guard!</s>
+            <s sid="3" id="sample4.c34.s3">She comes from the other world -- from the abode of
+                people who are dead; and tells me so when she meets me alone here in the
+                gloaming!
+            </s>
+            <s sid="4" id="sample4.c34.s4">If I dared, I'd touch you, to see if you are substance or
+                shadow, you elf!
+            </s>
+            <s sid="5" id="sample4.c34.s5">-- but I'd as soon offer to take hold of a blue ignis
+                fatuus light in a marsh.
+            </s>
+            <s sid="6" id="sample4.c34.s6">Truant! truant!"
+                <qe/>
+                he added, when he had paused an
+                instant.
+            </s>
+            <s sid="7" id="sample4.c34.s7"><qs/>"Absent from me a whole month, and forgetting me
+                quite, I'll be sworn!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="35">
+        <p pid="45" id="VivianG.c68.p45" type="speech">
+            <s sid="1" id="sample4.c35.s1"><qs/>"There is another strong argument, sir,"
+                <qe/>
+                <sls/>
+                said the Minister, without any of the usual phrases of recognition;
+                <sle/>
+                <qs/>"there is another strong argument against your doctrine of
+                Destiny."
+                <qe/>
+            </s>
+            <s sid="2" id="sample4.c35.s2">And then Mr. Beckendorff, taking Vivian by the arm, began
+                walking up and down part of the saloon with him; and in a few minutes, quite
+                forgetting the scene of the discussion, he was involved in metaphysics.
+            </s>
+            <s sid="3" id="sample4.c35.s3">This incident created another great sensation, and
+                whispers of<qs/>"secret mission, Secretary of State, decidedly a son,"
+                <qe/>
+                &amp;c.
+            </s>
+            <s sid="4" id="sample4.c35.s4">&amp;c.</s>
+            <s sid="5" id="sample4.c35.s5">&amp;c. were in an instant afloat in all parts of the
+                room.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="36">
+        <p pid="4" id="dracula.c15.p4" type="speech">
+            <s sid="1" id="sample4.c36.s1"><qs/>"Forgive me,"
+                <qe/>
+                said I.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="37">
+        <p pid="74" id="native.c11.p74" type="speech">
+            <s sid="1" id="sample4.c37.s1"><qs/>"Come--no taunts, Eustacia, or we shall quarrel.
+            </s>
+            <s sid="2" id="sample4.c37.s2">If you don't agree to go with me, and agree shortly, I
+                shall go by myself."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="38">
+        <p pid="45" id="Deronda.c24.p45" type="speech">
+            <s sid="1" id="sample4.c38.s1"><qs/>"That would be quite useless, mamma,"
+                <qe/>
+                said
+                Gwendolen, coldly.
+            </s>
+            <s sid="2" id="sample4.c38.s2"><qs/>"Governesses don't wear ornaments.
+            </s>
+            <s sid="3" id="sample4.c38.s3">You had better get me a gray frieze livery and a straw
+                poke, such as my aunt's charity children wear."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="39">
+        <p pid="18" id="native.c27.p18" type="speech">
+            <s sid="1" id="sample4.c39.s1"><qs/>"'Won back his watch, won back his money, and went
+                out of the door a rich man,'"
+                <qe/>
+                added Venn sentence by sentence, as stake after
+                stake passed over to him.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="40">
+        <p pid="64" id="Jude.c34.p64" type="speech">
+            <s sid="1" id="sample4.c40.s1"><qs/>"I thank you, Richard; but I must.
+            </s>
+            <s sid="2" id="sample4.c40.s2">As you are not so ill as I thought, I CANNOT
+                stay!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="41">
+        <p pid="48" id="arma.c4.p48" type="speech">
+            <s sid="1" id="sample4.c41.s1"><qs/>"Listen to me,"
+                <qe/>
+                persisted the rector.
+            </s>
+            <s sid="2" id="sample4.c41.s2"><qs/>"I'm not talking about the yacht now; that is to
+                say, I am only referring to the yacht as an illustration--"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="42">
+        <p pid="45" id="jane.c29.p45" type="speech">
+            <s sid="1" id="sample4.c42.s1"><qs/>"Aye; St.
+            </s>
+            <s sid="2" id="sample4.c42.s2">John is like his kirstened name."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="43">
+        <p pid="47" id="Prof.c18.p47" type="speech">
+            <s sid="1" id="sample4.c43.s1"><qs/>"Come in! come in!"
+                <qe/>
+                said Frances, as, after
+                putting her into the house, I paused ere I followed: the word decided me; I stepped
+                across the threshold, shut the door on the rushing, flashing, whitening storm, and
+                followed her upstairs to her apartments.
+            </s>
+            <s sid="2" id="sample4.c43.s2">Neither she nor I were wet; a projection over the door
+                had warded off the straight-descending flood; none but the first, large drops had
+                touched our garments; one minute more and we should not have had a dry thread on
+                us.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="44">
+        <p pid="42" id="wwhite.c26.p42" type="speech">
+            <s sid="1" id="sample4.c44.s1"><qs/>"What did I tell you?"
+                <qe/>
+                he asked.
+            </s>
+            <s sid="2" id="sample4.c44.s2"><qs/>"What do you say now?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="45">
+        <p pid="43" id="pride.c52.p43" type="speech">
+            <s sid="1" id="sample4.c45.s1"><qs/>"I do not recollect that we did."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="46">
+        <p pid="13" id="Jude.c50.p13" type="speech">
+            <s sid="1" id="sample4.c46.s1"><qs/>"What DOES it matter what my opinions are--a wretch
+                like me!
+            </s>
+            <s sid="2" id="sample4.c46.s2">Can it matter to anybody in the world who comes to see me
+                for half an hour--here with one foot in the grave!
+            </s>
+            <s sid="3" id="sample4.c46.s3">... Come, please write, Arabella!"
+                <qe/>
+                he pleaded.
+            </s>
+            <s sid="4" id="sample4.c46.s4"><qs/>"Repay my candour by a little generosity!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="47">
+        <p pid="22" id="cran.c13.p22" type="speech">
+            <s sid="1" id="sample4.c47.s1"><qs/>"I don't understand it,"
+                <qe/>
+                said Miss Matty to me
+                in a low voice.
+            </s>
+            <s sid="2" id="sample4.c47.s2"><qs/>"That is our bank, is it not?--the Town and County
+                Bank?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="48">
+        <p pid="29" id="pride.c9.p29" type="speech">
+            <s sid="1" id="sample4.c48.s1"><qs/>"No, she would go home.
+            </s>
+            <s sid="2" id="sample4.c48.s2">I fancy she was wanted about the mince-pies.</s>
+            <s sid="3" id="sample4.c48.s3">For my part, Mr. Bingley, I always keep servants that can
+                do their own work; _my_ daughters are brought up very differently.
+            </s>
+            <s sid="4" id="sample4.c48.s4">But everybody is to judge for themselves, and the Lucases
+                are a very good sort of girls, I assure you.
+            </s>
+            <s sid="5" id="sample4.c48.s5">It is a pity they are not handsome!</s>
+            <s sid="6" id="sample4.c48.s6">Not that I think Charlotte so _very_ plain--but then she
+                is our particular friend."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="50">
+        <p pid="1" id="frank.c19.p1" form="extended" position="beginning">
+            <s sid="1" id="sample4.c50.s1"><qs/>"Such was the history of my beloved cottagers.</s>
+            <s sid="2" id="sample4.c50.s2">It impressed me deeply.</s>
+            <s sid="3" id="sample4.c50.s3">I learned, from the views of social life which it
+                developed, to admire their virtues and to deprecate the vices of mankind.
+            </s>
+        </p>
+
+        <p pid="2" id="frank.c19.p2" type="speech" form="extended" position="middle">
+            <s sid="4" id="sample4.c50.s4">"As yet I looked upon crime as a distant evil,
+                benevolence and generosity were ever present before me, inciting within me a desire
+                to become an actor in the busy scene where so many admirable qualities were called
+                forth and displayed.
+            </s>
+            <s sid="5" id="sample4.c50.s5">But in giving an account of the progress of my intellect,
+                I must not omit a circumstance which occurred in the beginning of the month of
+                August of the same year.
+            </s>
+        </p>
+
+        <p pid="3" id="frank.c19.p3" type="speech" form="extended" position="middle">
+            <s sid="6" id="sample4.c50.s6">"One night during my accustomed visit to the neighbouring
+                wood where I collected my own food and brought home firing for my protectors, I
+                found on the ground a leathern portmanteau containing several articles of dress and
+                some books.
+            </s>
+            <s sid="7" id="sample4.c50.s7">I eagerly seized the prize and returned with it to my
+                hovel.
+            </s>
+            <s sid="8" id="sample4.c50.s8">Fortunately the books were written in the language, the
+                elements of which I had acquired at the cottage; they consisted of Paradise Lost, a
+                volume of Plutarch's Lives, and the Sorrows of Werter.
+            </s>
+            <s sid="9" id="sample4.c50.s9">The possession of these treasures gave me extreme
+                delight; I now continually studied and exercised my mind upon these histories,
+                whilst my friends were employed in their ordinary occupations.
+            </s>
+        </p>
+
+        <p pid="4" id="frank.c19.p4" type="speech" form="extended" position="middle">
+            <s sid="10" id="sample4.c50.s10">"I can hardly describe to you the effect of these
+                books.
+            </s>
+            <s sid="11" id="sample4.c50.s11">They produced in me an infinity of new images and
+                feelings, that sometimes raised me to ecstasy, but more frequently sunk me into the
+                lowest dejection.
+            </s>
+            <s sid="12" id="sample4.c50.s12">In the Sorrows of Werter, besides the interest of its
+                simple and affecting story, so many opinions are canvassed and so many lights thrown
+                upon what had hitherto been to me obscure subjects that I found in it a never-ending
+                source of speculation and astonishment.
+            </s>
+            <s sid="13" id="sample4.c50.s13">The gentle and domestic manners it described, combined
+                with lofty sentiments and feelings, which had for their object something out of
+                self, accorded well with my experience among my protectors and with the wants which
+                were forever alive in my own bosom.
+            </s>
+            <s sid="14" id="sample4.c50.s14">But I thought Werter himself a more divine being than I
+                had ever beheld or imagined; his character contained no pretension, but it sank
+                deep.
+            </s>
+            <s sid="15" id="sample4.c50.s15">The disquisitions upon death and suicide were
+                calculated to fill me with wonder.
+            </s>
+            <s sid="16" id="sample4.c50.s16">I did not pretend to enter into the merits of the case,
+                yet I inclined towards the opinions of the hero, whose extinction I wept, without
+                precisely understanding it.
+            </s>
+        </p>
+
+        <p pid="5" id="frank.c19.p5" type="speech" form="extended" position="middle">
+            <s sid="17" id="sample4.c50.s17">"As I read, however, I applied much personally to my
+                own feelings and condition.
+            </s>
+            <s sid="18" id="sample4.c50.s18">I found myself similar yet at the same time strangely
+                unlike to the beings concerning whom I read and to whose conversation I was a
+                listener.
+            </s>
+            <s sid="19" id="sample4.c50.s19">I sympathized with and partly understood them, but I
+                was unformed in mind; I was dependent on none and related to none.
+            </s>
+            <s sid="20" id="sample4.c50.s20"><alt-qs/>'The path of my departure was free,'
+                <alt-qe/>
+                and there was none
+                to lament my annihilation.
+            </s>
+            <s sid="21" id="sample4.c50.s21">My person was hideous and my stature gigantic.</s>
+            <s sid="22" id="sample4.c50.s22">What did this mean?</s>
+            <s sid="23" id="sample4.c50.s23">Who was I?</s>
+            <s sid="24" id="sample4.c50.s24">What was I?</s>
+            <s sid="25" id="sample4.c50.s25">Whence did I come?</s>
+            <s sid="26" id="sample4.c50.s26">What was my destination?</s>
+            <s sid="27" id="sample4.c50.s27">These questions continually recurred, but I was unable
+                to solve them.
+            </s>
+        </p>
+
+        <p pid="6" id="frank.c19.p6" type="speech" form="extended" position="middle">
+            <s sid="28" id="sample4.c50.s28">"The volume of Plutarch's Lives which I possessed
+                contained the histories of the first founders of the ancient republics.
+            </s>
+            <s sid="29" id="sample4.c50.s29">This book had a far different effect upon me from the
+                Sorrows of Werter.
+            </s>
+            <s sid="30" id="sample4.c50.s30">I learned from Werter's imaginations despondency and
+                gloom, but Plutarch taught me high thoughts; he elevated me above the wretched
+                sphere of my own reflections, to admire and love the heroes of past ages.
+            </s>
+            <s sid="31" id="sample4.c50.s31">Many things I read surpassed my understanding and
+                experience.
+            </s>
+            <s sid="32" id="sample4.c50.s32">I had a very confused knowledge of kingdoms, wide
+                extents of country, mighty rivers, and boundless seas.
+            </s>
+            <s sid="33" id="sample4.c50.s33">But I was perfectly unacquainted with towns and large
+                assemblages of men.
+            </s>
+            <s sid="34" id="sample4.c50.s34">The cottage of my protectors had been the only school
+                in which I had studied human nature, but this book developed new and mightier scenes
+                of action.
+            </s>
+            <s sid="35" id="sample4.c50.s35">I read of men concerned in public affairs, governing or
+                massacring their species.
+            </s>
+            <s sid="36" id="sample4.c50.s36">I felt the greatest ardour for virtue rise within me,
+                and abhorrence for vice, as far as I understood the signification of those terms,
+                relative as they were, as I applied them, to pleasure and pain alone.
+            </s>
+            <s sid="37" id="sample4.c50.s37">Induced by these feelings, I was of course led to
+                admire peaceable lawgivers, Numa, Solon, and Lycurgus, in preference to Romulus and
+                Theseus.
+            </s>
+            <s sid="38" id="sample4.c50.s38">The patriarchal lives of my protectors caused these
+                impressions to take a firm hold on my mind; perhaps, if my first introduction to
+                humanity had been made by a young soldier, burning for glory and slaughter, I should
+                have been imbued with different sensations.
+            </s>
+        </p>
+
+        <p pid="7" id="frank.c19.p7" type="speech" form="extended" position="middle">
+            <s sid="39" id="sample4.c50.s39">"But Paradise Lost excited different and far deeper
+                emotions.
+            </s>
+            <s sid="40" id="sample4.c50.s40">I read it, as I had read the other volumes which had
+                fallen into my hands, as a true history.
+            </s>
+            <s sid="41" id="sample4.c50.s41">It moved every feeling of wonder and awe that the
+                picture of an omnipotent God warring with his creatures was capable of exciting.
+            </s>
+            <s sid="42" id="sample4.c50.s42">I often referred the several situations, as their
+                similarity struck me, to my own.
+            </s>
+            <s sid="43" id="sample4.c50.s43">Like Adam, I was apparently united by no link to any
+                other being in existence; but his state was far different from mine in every other
+                respect.
+            </s>
+            <s sid="44" id="sample4.c50.s44">He had come forth from the hands of God a perfect
+                creature, happy and prosperous, guarded by the especial care of his Creator; he was
+                allowed to converse with and acquire knowledge from beings of a superior nature, but
+                I was wretched, helpless, and alone.
+            </s>
+            <s sid="45" id="sample4.c50.s45">Many times I considered Satan as the fitter emblem of
+                my condition, for often, like him, when I viewed the bliss of my protectors, the
+                bitter gall of envy rose within me.
+            </s>
+        </p>
+
+        <p pid="8" id="frank.c19.p8" type="speech" form="extended" position="middle">
+            <s sid="46" id="sample4.c50.s46">"Another circumstance strengthened and confirmed these
+                feelings.
+            </s>
+            <s sid="47" id="sample4.c50.s47">Soon after my arrival in the hovel I discovered some
+                papers in the pocket of the dress which I had taken from your laboratory.
+            </s>
+            <s sid="48" id="sample4.c50.s48">At first I had neglected them, but now that I was able
+                to decipher the characters in which they were written, I began to study them with
+                diligence.
+            </s>
+            <s sid="49" id="sample4.c50.s49">It was your journal of the four months that preceded my
+                creation.
+            </s>
+            <s sid="50" id="sample4.c50.s50">You minutely described in these papers every step you
+                took in the progress of your work; this history was mingled with accounts of
+                domestic occurrences.
+            </s>
+            <s sid="51" id="sample4.c50.s51">You doubtless recollect these papers.</s>
+            <s sid="52" id="sample4.c50.s52">Here they are.</s>
+            <s sid="53" id="sample4.c50.s53">Everything is related in them which bears reference to
+                my accursed origin; the whole detail of that series of disgusting circumstances
+                which produced it is set in view; the minutest description of my odious and
+                loathsome person is given, in language which painted your own horrors and rendered
+                mine indelible.
+            </s>
+            <s sid="54" id="sample4.c50.s54">I sickened as I read.</s>
+            <s sid="55" id="sample4.c50.s55"><alt-qs/>'Hateful day when I received life!'
+                <alt-qe/>
+            </s>
+            <s sid="56" id="sample4.c50.s56">I exclaimed in agony.</s>
+            <s sid="57" id="sample4.c50.s57"><alt-qs/>'Accursed creator!
+            </s>
+            <s sid="58" id="sample4.c50.s58">Why did you form a monster so hideous that even YOU
+                turned from me in disgust?
+            </s>
+            <s sid="59" id="sample4.c50.s59">God, in pity, made man beautiful and alluring, after
+                his own image; but my form is a filthy type of yours, more horrid even from the very
+                resemblance.
+            </s>
+            <s sid="60" id="sample4.c50.s60">Satan had his companions, fellow devils, to admire and
+                encourage him, but I am solitary and abhorred.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="9" id="frank.c19.p9" type="speech" form="extended" position="middle">
+            <s sid="61" id="sample4.c50.s61">"These were the reflections of my hours of despondency
+                and solitude; but when I contemplated the virtues of the cottagers, their amiable
+                and benevolent dispositions, I persuaded myself that when they should become
+                acquainted with my admiration of their virtues they would compassionate me and
+                overlook my personal deformity.
+            </s>
+            <s sid="62" id="sample4.c50.s62">Could they turn from their door one, however monstrous,
+                who solicited their compassion and friendship?
+            </s>
+            <s sid="63" id="sample4.c50.s63">I resolved, at least, not to despair, but in every way
+                to fit myself for an interview with them which would decide my fate.
+            </s>
+            <s sid="64" id="sample4.c50.s64">I postponed this attempt for some months longer, for
+                the importance attached to its success inspired me with a dread lest I should
+                fail.
+            </s>
+            <s sid="65" id="sample4.c50.s65">Besides, I found that my understanding improved so much
+                with every day's experience that I was unwilling to commence this undertaking until
+                a few more months should have added to my sagacity.
+            </s>
+        </p>
+
+        <p pid="10" id="frank.c19.p10" type="speech" form="extended" position="middle">
+            <s sid="66" id="sample4.c50.s66">"Several changes, in the meantime, took place in the
+                cottage.
+            </s>
+            <s sid="67" id="sample4.c50.s67">The presence of Safie diffused happiness among its
+                inhabitants, and I also found that a greater degree of plenty reigned there.
+            </s>
+            <s sid="68" id="sample4.c50.s68">Felix and Agatha spent more time in amusement and
+                conversation, and were assisted in their labours by servants.
+            </s>
+            <s sid="69" id="sample4.c50.s69">They did not appear rich, but they were contented and
+                happy; their feelings were serene and peaceful, while mine became every day more
+                tumultuous.
+            </s>
+            <s sid="70" id="sample4.c50.s70">Increase of knowledge only discovered to me more
+                clearly what a wretched outcast I was.
+            </s>
+            <s sid="71" id="sample4.c50.s71">I cherished hope, it is true, but it vanished when I
+                beheld my person reflected in water or my shadow in the moonshine, even as that
+                frail image and that inconstant shade.
+            </s>
+        </p>
+
+        <p pid="11" id="frank.c19.p11" type="speech" form="extended" position="middle">
+            <s sid="72" id="sample4.c50.s72">"I endeavoured to crush these fears and to fortify
+                myself for the trial which in a few months I resolved to undergo; and sometimes I
+                allowed my thoughts, unchecked by reason, to ramble in the fields of Paradise, and
+                dared to fancy amiable and lovely creatures sympathizing with my feelings and
+                cheering my gloom; their angelic countenances breathed smiles of consolation.
+            </s>
+            <s sid="73" id="sample4.c50.s73">But it was all a dream; no Eve soothed my sorrows nor
+                shared my thoughts; I was alone.
+            </s>
+            <s sid="74" id="sample4.c50.s74">I remembered Adam's supplication to his Creator.</s>
+            <s sid="75" id="sample4.c50.s75">But where was mine?</s>
+            <s sid="76" id="sample4.c50.s76">He had abandoned me, and in the bitterness of my heart
+                I cursed him.
+            </s>
+        </p>
+
+        <p pid="12" id="frank.c19.p12" type="speech" form="extended" position="middle">
+            <s sid="77" id="sample4.c50.s77">"Autumn passed thus.</s>
+            <s sid="78" id="sample4.c50.s78">I saw, with surprise and grief, the leaves decay and
+                fall, and nature again assume the barren and bleak appearance it had worn when I
+                first beheld the woods and the lovely moon.
+            </s>
+            <s sid="79" id="sample4.c50.s79">Yet I did not heed the bleakness of the weather; I was
+                better fitted by my conformation for the endurance of cold than heat.
+            </s>
+            <s sid="80" id="sample4.c50.s80">But my chief delights were the sight of the flowers,
+                the birds, and all the gay apparel of summer; when those deserted me, I turned with
+                more attention towards the cottagers.
+            </s>
+            <s sid="81" id="sample4.c50.s81">Their happiness was not decreased by the absence of
+                summer.
+            </s>
+            <s sid="82" id="sample4.c50.s82">They loved and sympathized with one another; and their
+                joys, depending on each other, were not interrupted by the casualties that took
+                place around them.
+            </s>
+            <s sid="83" id="sample4.c50.s83">The more I saw of them, the greater became my desire to
+                claim their protection and kindness; my heart yearned to be known and loved by these
+                amiable creatures; to see their sweet looks directed towards me with affection was
+                the utmost limit of my ambition.
+            </s>
+            <s sid="84" id="sample4.c50.s84">I dared not think that they would turn them from me
+                with disdain and horror.
+            </s>
+            <s sid="85" id="sample4.c50.s85">The poor that stopped at their door were never driven
+                away.
+            </s>
+            <s sid="86" id="sample4.c50.s86">I asked, it is true, for greater treasures than a
+                little food or rest:
+            </s>
+            <s sid="87" id="sample4.c50.s87">I required kindness and sympathy; but I did not believe
+                myself utterly unworthy of it.
+            </s>
+        </p>
+
+        <p pid="13" id="frank.c19.p13" type="speech" form="extended" position="middle">
+            <s sid="88" id="sample4.c50.s88">"The winter advanced, and an entire revolution of the
+                seasons had taken place since I awoke into life.
+            </s>
+            <s sid="89" id="sample4.c50.s89">My attention at this time was solely directed towards
+                my plan of introducing myself into the cottage of my protectors.
+            </s>
+            <s sid="90" id="sample4.c50.s90">I revolved many projects, but that on which I finally
+                fixed was to enter the dwelling when the blind old man should be alone.
+            </s>
+            <s sid="91" id="sample4.c50.s91">I had sagacity enough to discover that the unnatural
+                hideousness of my person was the chief object of horror with those who had formerly
+                beheld me.
+            </s>
+            <s sid="92" id="sample4.c50.s92">My voice, although harsh, had nothing terrible in it; I
+                thought, therefore, that if in the absence of his children I could gain the good
+                will and mediation of the old De Lacey, I might by his means be tolerated by my
+                younger protectors.
+            </s>
+        </p>
+
+        <p pid="14" id="frank.c19.p14" type="speech" form="extended" position="middle">
+            <s sid="93" id="sample4.c50.s93">"One day, when the sun shone on the red leaves that
+                strewed the ground and diffused cheerfulness, although it denied warmth, Safie,
+                Agatha, and Felix departed on a long country walk, and the old man, at his own
+                desire, was left alone in the cottage.
+            </s>
+            <s sid="94" id="sample4.c50.s94">When his children had departed, he took up his guitar
+                and played several mournful but sweet airs, more sweet and mournful than I had ever
+                heard him play before.
+            </s>
+            <s sid="95" id="sample4.c50.s95">At first his countenance was illuminated with pleasure,
+                but as he continued, thoughtfulness and sadness succeeded; at length, laying aside
+                the instrument, he sat absorbed in reflection.
+            </s>
+        </p>
+
+        <p pid="15" id="frank.c19.p15" type="speech" form="extended" position="middle">
+            <s sid="96" id="sample4.c50.s96">"My heart beat quick; this was the hour and moment of
+                trial, which would decide my hopes or realize my fears.
+            </s>
+            <s sid="97" id="sample4.c50.s97">The servants were gone to a neighbouring fair.</s>
+            <s sid="98" id="sample4.c50.s98">All was silent in and around the cottage; it was an
+                excellent opportunity; yet, when I proceeded to execute my plan, my limbs failed me
+                and I sank to the ground.
+            </s>
+            <s sid="99" id="sample4.c50.s99">Again I rose, and exerting all the firmness of which I
+                was master, removed the planks which I had placed before my hovel to conceal my
+                retreat.
+            </s>
+            <s sid="100" id="sample4.c50.s100">The fresh air revived me, and with renewed
+                determination I approached the door of their cottage.
+            </s>
+        </p>
+
+        <p pid="16" id="frank.c19.p16" type="speech" form="extended" position="middle">
+            <s sid="101" id="sample4.c50.s101">"I knocked.</s>
+            <s sid="102" id="sample4.c50.s102"><alt-qs/>'Who is there?'
+                <alt-qe/>
+                said the old man.
+            </s>
+            <s sid="103" id="sample4.c50.s103"><alt-qs/>'Come in.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="17" id="frank.c19.p17" type="speech" form="extended" position="middle">
+            <s sid="104" id="sample4.c50.s104">"I entered.</s>
+            <s sid="105" id="sample4.c50.s105"><alt-qs/>'Pardon this intrusion,'
+                <alt-qe/>
+                <sss/>
+                said I;
+                <sse/>
+                <alt-qs/>'I am a traveller in
+                want of a little rest; you would greatly oblige me if you would allow me to remain a
+                few minutes before the fire.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="18" id="frank.c19.p18" type="speech" form="extended" position="middle">
+            <s sid="106" id="sample4.c50.s106">"<alt-qs/>'Enter,'
+                <alt-qe/>
+                <sss/>
+                said De Lacey,
+                <sse/>
+                <alt-qs/>'and I will try in what
+                manner I can to relieve your wants; but, unfortunately, my children are from home,
+                and as I am blind, I am afraid I shall find it difficult to procure food for
+                you.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="19" id="frank.c19.p19" type="speech" form="extended" position="middle">
+            <s sid="107" id="sample4.c50.s107">"<alt-qe/>'Do not trouble yourself, my kind host; I have food;
+                it is warmth and rest only that I need.'
+                <alt-qs/>
+            </s>
+        </p>
+
+        <p pid="20" id="frank.c19.p20" type="speech" form="extended" position="middle">
+            <s sid="108" id="sample4.c50.s108">"I sat down, and a silence ensued.</s>
+            <s sid="109" id="sample4.c50.s109">I knew that every minute was precious to me, yet I
+                remained irresolute in what manner to commence the interview, when the old man
+                addressed me.
+            </s>
+            <s sid="110" id="sample4.c50.s110"><alt-qs/>'By your language, stranger, I suppose you are my
+                countryman; are you French?'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="21" id="frank.c19.p21" type="speech" form="extended" position="middle">
+            <s sid="111" id="sample4.c50.s111">"<alt-qs/>'No; but I was educated by a French family and
+                understand that language only.
+            </s>
+            <s sid="112" id="sample4.c50.s112">I am now going to claim the protection of some
+                friends, whom I sincerely love, and of whose favour I have some hopes.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="22" id="frank.c19.p22" type="speech" form="extended" position="middle">
+            <s sid="113" id="sample4.c50.s113">"<alt-qs/>'Are they Germans?'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="23" id="frank.c19.p23" type="speech" form="extended" position="middle">
+            <s sid="114" id="sample4.c50.s114">"<alt-qs/>'No, they are French.
+            </s>
+            <s sid="115" id="sample4.c50.s115">But let us change the subject.</s>
+            <s sid="116" id="sample4.c50.s116">I am an unfortunate and deserted creature, I look
+                around and I have no relation or friend upon earth.
+            </s>
+            <s sid="117" id="sample4.c50.s117">These amiable people to whom I go have never seen me
+                and know little of me.
+            </s>
+            <s sid="118" id="sample4.c50.s118">I am full of fears, for if I fail there, I am an
+                outcast in the world forever.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="24" id="frank.c19.p24" type="speech" form="extended" position="middle">
+            <s sid="119" id="sample4.c50.s119">"<alt-qs/>'Do not despair.
+            </s>
+            <s sid="120" id="sample4.c50.s120">To be friendless is indeed to be unfortunate, but the
+                hearts of men, when unprejudiced by any obvious self-interest, are full of brotherly
+                love and charity.
+            </s>
+            <s sid="121" id="sample4.c50.s121">Rely, therefore, on your hopes; and if these friends
+                are good and amiable, do not despair.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="25" id="frank.c19.p25" type="speech" form="extended" position="middle">
+            <s sid="122" id="sample4.c50.s122">"<alt-qs/>'They are kind--they are the most excellent
+                creatures in the world; but, unfortunately, they are prejudiced against me.
+            </s>
+            <s sid="123" id="sample4.c50.s123">I have good dispositions; my life has been hitherto
+                harmless and in some degree beneficial; but a fatal prejudice clouds their eyes, and
+                where they ought to see a feeling and kind friend, they behold only a detestable
+                monster.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="26" id="frank.c19.p26" type="speech" form="extended" position="middle">
+            <s sid="124" id="sample4.c50.s124">"<alt-qs/>'That is indeed unfortunate; but if you are really
+                blameless, cannot you undeceive them?'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="27" id="frank.c19.p27" type="speech" form="extended" position="middle">
+            <s sid="125" id="sample4.c50.s125">"<alt-qs/>'I am about to undertake that task; and it is on
+                that account that I feel so many overwhelming terrors.
+            </s>
+            <s sid="126" id="sample4.c50.s126">I tenderly love these friends; I have, unknown to
+                them, been for many months in the habits of daily kindness towards them; but they
+                believe that I wish to injure them, and it is that prejudice which I wish to
+                overcome.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="28" id="frank.c19.p28" type="speech" form="extended" position="middle">
+            <s sid="127" id="sample4.c50.s127">"<alt-qs/>'Where do these friends reside?'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="29" id="frank.c19.p29" type="speech" form="extended" position="middle">
+            <s sid="128" id="sample4.c50.s128">"<alt-qs/>'Near this spot.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="30" id="frank.c19.p30" type="speech" form="extended" position="middle">
+            <s sid="129" id="sample4.c50.s129">"The old man paused and then continued,<alt-qs/>'If you will
+                unreservedly confide to me the particulars of your tale, I perhaps may be of use in
+                undeceiving them.
+            </s>
+            <s sid="130" id="sample4.c50.s130">I am blind and cannot judge of your countenance, but
+                there is something in your words which persuades me that you are sincere.
+            </s>
+            <s sid="131" id="sample4.c50.s131">I am poor and an exile, but it will afford me true
+                pleasure to be in any way serviceable to a human creature.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="31" id="frank.c19.p31" type="speech" form="extended" position="middle">
+            <s sid="132" id="sample4.c50.s132">"<alt-qs/>'Excellent man!
+            </s>
+            <s sid="133" id="sample4.c50.s133">I thank you and accept your generous offer.</s>
+            <s sid="134" id="sample4.c50.s134">You raise me from the dust by this kindness; and I
+                trust that, by your aid, I shall not be driven from the society and sympathy of your
+                fellow creatures.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="32" id="frank.c19.p32" type="speech" form="extended" position="middle">
+            <s sid="135" id="sample4.c50.s135">"<alt-qs/>'Heaven forbid!
+            </s>
+            <s sid="136" id="sample4.c50.s136">Even if you were really criminal, for that can only
+                drive you to desperation, and not instigate you to virtue.
+            </s>
+            <s sid="137" id="sample4.c50.s137">I also am unfortunate; I and my family have been
+                condemned, although innocent; judge, therefore, if I do not feel for your
+                misfortunes.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="33" id="frank.c19.p33" type="speech" form="extended" position="middle">
+            <s sid="138" id="sample4.c50.s138">"<alt-qs/>'How can I thank you, my best and only
+                benefactor?
+            </s>
+            <s sid="139" id="sample4.c50.s139">From your lips first have I heard the voice of
+                kindness directed towards me; I shall be forever grateful; and your present humanity
+                assures me of success with those friends whom I am on the point of meeting.'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="34" id="frank.c19.p34" type="speech" form="extended" position="middle">
+            <s sid="140" id="sample4.c50.s140">"<alt-qs/>'May I know the names and residence of those
+                friends?'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="35" id="frank.c19.p35" type="speech" form="extended" position="middle">
+            <s sid="141" id="sample4.c50.s141">"I paused.</s>
+            <s sid="142" id="sample4.c50.s142">This, I thought, was the moment of decision, which
+                was to rob me of or bestow happiness on me forever.
+            </s>
+            <s sid="143" id="sample4.c50.s143">I struggled vainly for firmness sufficient to answer
+                him, but the effort destroyed all my remaining strength; I sank on the chair and
+                sobbed aloud.
+            </s>
+            <s sid="144" id="sample4.c50.s144">At that moment I heard the steps of my younger
+                protectors.
+            </s>
+            <s sid="145" id="sample4.c50.s145">I had not a moment to lose, but seizing the hand of
+                the old man, I cried,<alt-qs/>'Now is the time!
+            </s>
+            <s sid="146" id="sample4.c50.s146">Save and protect me!</s>
+            <s sid="147" id="sample4.c50.s147">You and your family are the friends whom I seek.</s>
+            <s sid="148" id="sample4.c50.s148">Do not you desert me in the hour of trial!'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="36" id="frank.c19.p36" type="speech" form="extended" position="middle">
+            <s sid="149" id="sample4.c50.s149">"<alt-qs/>'Great God!'
+                <alt-qe/>
+                exclaimed the old man.
+            </s>
+            <s sid="150" id="sample4.c50.s150"><alt-qs/>'Who are you?'
+                <alt-qe/>
+            </s>
+        </p>
+
+        <p pid="37" id="frank.c19.p37" type="speech" form="extended" position="end">
+            <s sid="151" id="sample4.c50.s151">"At that instant the cottage door was opened,
+                and Felix, Safie, and Agatha entered.
+            </s>
+            <s sid="152" id="sample4.c50.s152">Who can describe their horror and consternation on
+                beholding me?
+            </s>
+            <s sid="153" id="sample4.c50.s153">Agatha fainted, and Safie, unable to attend to her
+                friend, rushed out of the cottage.
+            </s>
+            <s sid="154" id="sample4.c50.s154">Felix darted forward, and with supernatural force
+                tore me from his father, to whose knees I clung, in a transport of fury, he dashed
+                me to the ground and struck me violently with a stick.
+            </s>
+            <s sid="155" id="sample4.c50.s155">I could have torn him limb from limb, as the lion
+                rends the antelope.
+            </s>
+            <s sid="156" id="sample4.c50.s156">But my heart sank within me as with bitter sickness,
+                and I refrained.
+            </s>
+            <s sid="157" id="sample4.c50.s157">I saw him on the point of repeating his blow, when,
+                overcome by pain and anguish, I quitted the cottage, and in the general tumult
+                escaped unperceived to my hovel."<qe/>
+            </s>
+        </p>
+    </div>
+
+    <div book="sample4" num="51">
+        <p pid="32" id="sybil.c23.p32" type="speech">
+            <s sid="1" id="sample4.c51.s1"><qs/>"But he cannot force you to take goods,"
+                <qe/>
+                <sss/>
+                said the stranger;
+                <sse/>
+                <qs/>"he must pay you in current coin of the realm, if you
+                demand it."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="52">
+        <p pid="16" id="persuasion.c18.p16" type="speech">
+            <s sid="1" id="sample4.c52.s1"><qs/>"Gout and decrepitude!"
+                <qe/>
+                said Sir Walter.
+            </s>
+            <s sid="2" id="sample4.c52.s2"><qs/>"Poor old gentleman."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="53">
+        <p pid="30" id="LadyAud.c38.p30" type="speech">
+            <s sid="1" id="sample4.c53.s1">Robert Audley folded this letter very reverently, and
+                placed it underneath that part of his waistcoat which might be supposed to cover the
+                region of his heart.
+            </s>
+            <s sid="2" id="sample4.c53.s2">Having done this, he seated himself in his favorite
+                arm-chair, filled and lighted a pipe and smoked it out, staring reflectingly at the
+                fire as long as his tobacco lasted.
+            </s>
+            <s sid="3" id="sample4.c53.s3"><qs/>"What can that man Marks want with me,"
+                <qe/>
+                thought
+                the barrister.
+            </s>
+            <s sid="4" id="sample4.c53.s4"><qs/>"He is afraid to die until he has made confession,
+                perhaps.
+            </s>
+            <s sid="5" id="sample4.c53.s5">He wishes to tell me that which I know already--the story
+                of my lady's crime.
+            </s>
+            <s sid="6" id="sample4.c53.s6">I knew that he was in the secret.</s>
+            <s sid="7" id="sample4.c53.s7">I was sure of it even upon the night on which I first saw
+                him.
+            </s>
+            <s sid="8" id="sample4.c53.s8">He knew the secret, and he traded on it."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="55">
+        <p pid="29" id="emma.c5.p29" type="speech">
+            <s sid="1" id="sample4.c55.s1"><qs/>"She always declares she will never marry, which, of
+                course, means just nothing at all.
+            </s>
+            <s sid="2" id="sample4.c55.s2">But I have no idea that she has yet ever seen a man she
+                cared for.
+            </s>
+            <s sid="3" id="sample4.c55.s3">It would not be a bad thing for her to be very much in
+                love with a proper object.
+            </s>
+            <s sid="4" id="sample4.c55.s4">I should like to see Emma in love, and in some doubt of a
+                return; it would do her good.
+            </s>
+            <s sid="5" id="sample4.c55.s5">But there is nobody hereabouts to attach her; and she
+                goes so seldom from home."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="56">
+        <p pid="23" id="mill.c39.p23" type="speech">
+            <s sid="1" id="sample4.c56.s1"><qs/>"Hadn't we better send for the doctor?"
+                <qe/>
+                said
+                Mrs. Tulliver.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="57">
+        <p pid="129" id="jane.c34.p129" type="speech">
+            <s sid="1" id="sample4.c57.s1"><qs/>"And I will give the missionary my energies -- it is
+                all he wants -- but not myself: that would be only adding the husk and shell to the
+                kernel.
+            </s>
+            <s sid="2" id="sample4.c57.s2">For them he has no use:</s>
+            <s sid="3" id="sample4.c57.s3">I retain them."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="59">
+        <p pid="102" id="arma.c31.p102" type="speech">
+            <s sid="1" id="sample4.c59.s1">"Suppose the brute at the great house happened to leave
+                this neighborhood as a single man; and suppose, in his absence, any of the people
+                who know him heard of a Mrs. Allan Armadale, they would set her down at once as his
+                wife.
+            </s>
+            <s sid="2" id="sample4.c59.s2">Even if they actually saw me--if I actually came among
+                them with that name, and if he was not present to contradict it--his own servants
+                would be the first to say,<alt-qs/>'We knew she would marry him, after all!'
+                <alt-qe/>
+            </s>
+            <s sid="3" id="sample4.c59.s3">And my lady-patronesses, who will be ready to believe
+                anything of me now we have quarreled, would join the chorus _sotto voce:_<alt-qs/>'Only
+                think, my dear, the report that so shocked us actually turns out to be true!'
+                <alt-qe/>
+            </s>
+            <s sid="4" id="sample4.c59.s4">No. If I marry Midwinter, I must either be perpetually
+                putting my husband and myself in a false position--or I must leave his real name,
+                his pretty, romantic name, behind me at the church door.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="60">
+        <p pid="130" id="LadyAud.c38.p130" type="speech">
+            <s sid="1" id="sample4.c60.s1"><qs/>"My God!"
+                <qe/>
+                <sss/>
+                he ejaculated,
+                <sse/>
+                <qs/>"I
+                think Thee for Thy wondrous mercies.
+            </s>
+            <s sid="2" id="sample4.c60.s2">George Talboys is alive!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="61">
+        <p pid="32" id="NorthS.c41.p32" type="speech">
+            <s sid="1" id="sample4.c61.s1"><qs/>'About Margaret.'
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="62">
+        <p pid="18" id="wh.c34.p18" type="speech">
+            <s sid="1" id="sample4.c62.s1"><qs/>'Well, is he coming?'
+                <qe/>
+                cried Catherine, when her
+                cousin returned.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="63">
+        <p pid="4" id="alli.c16.p4" type="speech">
+            <s sid="1" id="sample4.c63.s1"><qs/>"That is easily said; and civility to me, perhaps,
+                demands as much.
+            </s>
+            <s sid="2" id="sample4.c63.s2">But I know that you have, to some extent, been
+                disappointed."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="64">
+        <p pid="22" id="native.c29.p22" type="speech">
+            <s sid="1" id="sample4.c64.s1"><qs/>"Then this is what my mother meant,"
+                <qe/>
+                exclaimed
+                Clym.
+            </s>
+            <s sid="2" id="sample4.c64.s2"><qs/>"Thomasin, do you know that they have had a bitter
+                quarrel?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="65">
+        <p pid="21" id="sybil.c62.p21" type="speech">
+            <s sid="1" id="sample4.c65.s1"><qs/>"You are troubled, my father,"
+                <qe/>
+                said Sybil, as
+                Gerard continued to pace the chamber.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="66">
+        <p pid="28" id="native.c4.p28" type="speech">
+            <s sid="1" id="sample4.c66.s1"><qs/>"I had met her as a lad before I went away in this
+                trade.
+            </s>
+            <s sid="2" id="sample4.c66.s2">She asked then if she might ride, and then down she fell
+                in a faint.
+            </s>
+            <s sid="3" id="sample4.c66.s3">I picked her up and put her in, and there she has been
+                ever since.
+            </s>
+            <s sid="4" id="sample4.c66.s4">She has cried a good deal, but she has hardly spoke; all
+                she has told me being that she was to have been married this morning.
+            </s>
+            <s sid="5" id="sample4.c66.s5">I tried to get her to eat something, but she couldn't;
+                and at last she fell asleep."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="67">
+        <p pid="29" id="jane.c27.p29" type="speech">
+            <s sid="1" id="sample4.c67.s1"><qs/>"Sir,"
+                <qe/>
+                <sss/>
+                I interrupted him,
+                <sse/>
+                <qs/>"you
+                are inexorable for that unfortunate lady: you speak of her with hate -- with
+                vindictive antipathy.
+            </s>
+            <s sid="2" id="sample4.c67.s2">It is cruel -- she cannot help being mad."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="68">
+        <p pid="79" id="LadyAud.c38.p79" type="speech">
+            <s sid="1" id="sample4.c68.s1"><qs/>"But I never breathed a word of it to anybody but
+                you, sir, and I think that Luke has forgotten all about that night; I think that
+                what went before the fire has gone clean out of his head altogether.
+            </s>
+            <s sid="2" id="sample4.c68.s2">He was tipsy, you know, when my la--when she came to the
+                Castle; and I think he was so dazed and scared like by the fire that it all went out
+                of his memory.
+            </s>
+            <s sid="3" id="sample4.c68.s3">He doesn't suspect what I suspect, at any rate, or he'd
+                have spoken of it to anybody or everybody; but he's dreadful spiteful against my
+                lady, for he says if she'd have let him have a place at Brentwood or Chelmsford,
+                this wouldn't have happened.
+            </s>
+            <s sid="4" id="sample4.c68.s4">So what I wanted to beg of you, sir, is not to let a word
+                drop before Luke."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="69">
+        <p pid="32" id="Tess.c47.p32" type="speech">
+            <s sid="1" id="sample4.c69.s1"><qs/>"You say you don't?
+            </s>
+            <s sid="2" id="sample4.c69.s2">But you do!</s>
+            <s sid="3" id="sample4.c69.s3">You haunt me.</s>
+            <s sid="4" id="sample4.c69.s4">Those very eyes that you turned upon my with such a
+                bitter flash a moment ago, they come to me just as you showed them then, in the
+                night and in the day!
+            </s>
+            <s sid="5" id="sample4.c69.s5">Tess, ever since you told me of that child of ours, it is
+                just as if my feelings, which have been flowing in a strong puritanical stream, had
+                suddenly found a way open in the direction of you, and had all at once gushed
+                through.
+            </s>
+            <s sid="6" id="sample4.c69.s6">The religious channel is left dry forthwith; and it is
+                you who have done it!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="70">
+        <p pid="167" id="arma.c39.p167" type="speech" form="extended" position="beginning">
+          <s sid="678" id="arma.c39.s678"><qs/>"I looked up when I had come to the end of the letter, and saw, for the first time, that Bashwood had left his chair and had placed himself opposite to me.</s>
+          <s sid="679" id="arma.c39.s679">He was intently studying my face, with the inquiring expression of a man who was trying to read my thoughts.</s>
+          <s sid="680" id="arma.c39.s680">His eyes fell guiltily when they met mine, and he shrank away to his chair.</s>
+          <s sid="681" id="arma.c39.s681">Believing, as he did, that I was really married to Armadale, was he trying to discover whether the news of Armadale's rescue from the sea was good news or bad news in my estimation?</s>
+          <s sid="682" id="arma.c39.s682">It was no time then for entering into explanations with him.</s>
+          <s sid="683" id="arma.c39.s683">The first thing to be done was to communicate instantly with the doctor.</s>
+          <s sid="684" id="arma.c39.s684">I called Bashwood back to me and gave him my hand.</s>
+        </p>
+        <p pid="168" id="arma.c39.p168" type="speech" form="extended" position="middle">
+          <s sid="685" id="arma.c39.s685">"<alt-qs/>'You have done me a service,'<alt-qe/><sss/> I said, <sse/><alt-qs/>'which makes us closer friends than ever.</s>
+          <s sid="686" id="arma.c39.s686">I shall say more about this, and about other matters of some interest to both of us, later in the day.</s>
+          <s sid="687" id="arma.c39.s687">I want you now to lend me Mr. Armadale's letter (which I promise to bring back) and to wait here till I return.</s>
+          <s sid="688" id="arma.c39.s688">Will you do that for me, Mr. Bashwood?'<alt-qe/></s>
+        </p>
+        <p pid="169" id="arma.c39.p169" type="speech" form="extended" position="middle">
+          <s sid="689" id="arma.c39.s689">"He would do anything I asked him, he said.</s>
+          <s sid="690" id="arma.c39.s690">I went into the bedroom and put on my bonnet and shawl.</s>
+        </p>
+        <p pid="170" id="arma.c39.p170" type="speech" form="extended" position="middle">
+            <s sid="1" id="sample4.c70.s1">"<alt-qs/>'Let me be quite sure of the facts before I leave you,'
+                <alt-qe/>
+                I resumed, when I was ready to go out.
+            </s>
+            <s sid="2" id="sample4.c70.s2"><alt-qs/>'You have not shown this letter to anybody but me?'
+                <alt-qe/>
+            </s>
+        </p>
+        <p pid="171" id="arma.c39.p171" type="speech" form="extended" position="middle">
+          <s sid="693" id="arma.c39.s693">"<alt-qs/>'Not a living soul has seen it but our two selves.'<alt-qe/></s>
+        </p>
+        <p pid="172" id="arma.c39.p172" type="speech" form="extended" position="middle">
+          <s sid="694" id="arma.c39.s694">"<alt-qs/>'What have you done with the note inclosed to Miss Milroy?'<alt-qe/></s>
+        </p>
+        <p pid="173" id="arma.c39.p173" type="speech" form="extended" position="middle">
+          <s sid="695" id="arma.c39.s695">"He produced it from his pocket.</s>
+          <s sid="696" id="arma.c39.s696">I ran it over rapidly--saw that there was nothing in it of the slightest importance--and put it in the fire on the spot.</s>
+          <s sid="697" id="arma.c39.s697">That done, I left Bashwood in the sitting-room, and went to the Sanitarium, with Armadale's letter in my hand.</s>
+        </p>
+        <p pid="174" id="arma.c39.p174" type="speech" form="extended" position="middle">
+          <s sid="698" id="arma.c39.s698">"The doctor had gone out, and the servant was unable to say positively at what time he would be back.</s>
+          <s sid="699" id="arma.c39.s699">I went into his study, and wrote a line preparing him for the news I had brought with me, which I sealed up, with Armadale's letter, in an envelope, to await his return.</s>
+          <s sid="700" id="arma.c39.s700">Having told the servant I would call again in an hour, I left the place.</s>
+        </p>
+        <p pid="175" id="arma.c39.p175" type="speech" form="extended" position="middle">
+          <s sid="701" id="arma.c39.s701">"It was useless to go back to my lodgings and speak to Bashwood, until I knew first what the doctor meant to do.</s>
+          <s sid="702" id="arma.c39.s702">I walked about the neighborhood, up and down new streets and crescents and squares, with a kind of dull, numbed feeling in me, which prevented, not only all voluntary exercise of thought, but all sensation of bodily fatigue.</s>
+          <s sid="703" id="arma.c39.s703">I remembered the same feeling overpowering me, years ago, on the morning when the people of the prison came to take me into court to be tried for my life.</s>
+          <s sid="704" id="arma.c39.s704">All that frightful scene came back again to my mind in the strangest manner, as if it had been a scene in which some other person had figured.</s>
+          <s sid="705" id="arma.c39.s705">Once or twice I wondered, in a heavy, senseless way, why they had not hanged me!</s>
+        </p>
+        <p pid="176" id="arma.c39.p176" type="speech" form="extended" position="middle">
+          <s sid="706" id="arma.c39.s706">"When I went back to the Sanitarium, I was informed that the doctor had returned half an hour since, and that he was in his own room anxiously waiting to see me.</s>
+        </p>
+        <p pid="177" id="arma.c39.p177" type="speech" form="extended" position="middle">
+          <s sid="707" id="arma.c39.s707">"I went into the study, and found him sitting close by the fire with his head down and his hands on his knees.</s>
+          <s sid="708" id="arma.c39.s708">On the table near him, beside Armadale's letter and my note, I saw, in the little circle of light thrown by the reading-lamp, an open railway guide.</s>
+          <s sid="709" id="arma.c39.s709">Was he meditating flight?</s>
+          <s sid="710" id="arma.c39.s710">It was impossible to tell from his face, when he looked up at me, what he was meditating, or how the shock had struck him when he first discovered that Armadale was a living man.</s>
+        </p>
+        <p pid="178" id="arma.c39.p178" type="speech" form="extended" position="middle">
+          <s sid="711" id="arma.c39.s711">"<alt-qs/>'Take a seat near the fire,'<alt-qe/> he said.</s>
+          <s sid="712" id="arma.c39.s712"><alt-qs/>'It's very raw and cold to-day.'<alt-qe/></s>
+        </p>
+        <p pid="179" id="arma.c39.p179" type="speech" form="extended" position="middle">
+          <s sid="713" id="arma.c39.s713">"I took a chair in silence.</s>
+          <s sid="714" id="arma.c39.s714">In silence, on his side, the doctor sat rubbing his knees before the fire.</s>
+        </p>
+        <p pid="180" id="arma.c39.p180" type="speech" form="extended" position="middle">
+          <s sid="715" id="arma.c39.s715">"<alt-qs/>'Have you nothing to say to me?'<alt-qe/></s>
+          <s sid="716" id="arma.c39.s716">I asked.</s>
+        </p>
+        <p pid="181" id="arma.c39.p181" type="speech" form="extended" position="middle">
+          <s sid="717" id="arma.c39.s717">"He rose, and suddenly removed the shade from the reading-lamp, so that the light fell on my face.</s>
+        </p>
+        <p pid="182" id="arma.c39.p182" type="speech" form="extended" position="middle">
+          <s sid="718" id="arma.c39.s718">"<alt-qs/>'You are not looking well,'<alt-qe/> he said.</s>
+          <s sid="719" id="arma.c39.s719"><alt-qs/>'What's the matter?'<alt-qe/></s>
+        </p>
+        <p pid="183" id="arma.c39.p183" type="speech" form="extended" position="middle">
+          <s sid="720" id="arma.c39.s720">"<alt-qs/>'My head feels dull, and my eyes are heavy and hot,'<alt-qe/> I replied.</s>
+          <s sid="721" id="arma.c39.s721"><alt-qs/>'The weather, I suppose.'<alt-qe/></s>
+        </p>
+        <p pid="184" id="arma.c39.p184" type="speech" form="extended" position="middle">
+          <s sid="722" id="arma.c39.s722">"It was strange how we both got further and further from the one vitally important subject which we had both come together to discuss!</s>
+        </p>
+        <p pid="185" id="arma.c39.p185" type="speech" form="extended" position="middle">
+          <s sid="723" id="arma.c39.s723">"<alt-qs/>'I think a cup of tea would do you good,'<alt-qe/> remarked the doctor.</s>
+        </p>
+        <p pid="186" id="arma.c39.p186" type="speech" form="extended" position="middle">
+          <s sid="724" id="arma.c39.s724">"I accepted his suggestion; and he ordered the tea.</s>
+          <s sid="725" id="arma.c39.s725">While it was coming, he walked up and down the room, and I sat by the fire, and not a word passed between us on either side.</s>
+        </p>
+        <p pid="187" id="arma.c39.p187" type="speech" form="extended" position="middle">
+          <s sid="726" id="arma.c39.s726">"The tea revived me; and the doctor noticed a change for the better in my face.</s>
+          <s sid="727" id="arma.c39.s727">He sat down opposite to me at the table, and spoke out at last.</s>
+        </p>
+        <p pid="188" id="arma.c39.p188" type="speech" form="extended" position="middle">
+          <s sid="728" id="arma.c39.s728">"<alt-qs/>'If I had ten thousand pounds at this moment,'<alt-qe/><sss/> he began, <sse/><alt-qs/>'I would give the whole of it never to have compromised myself in your desperate speculation on Mr. Armadale's death!'<alt-qe/></s>
+        </p>
+        <p pid="189" id="arma.c39.p189" type="speech" form="extended" position="middle">
+          <s sid="729" id="arma.c39.s729">"He said those words with an abruptness, almost with a violence, which was strangely uncharacteristic of his ordinary manner.</s>
+          <s sid="730" id="arma.c39.s730">Was he frightened himself, or was he trying to frighten me?</s>
+          <s sid="731" id="arma.c39.s731">I determined to make him explain himself at the outset, so far as I was concerned.</s>
+          <s sid="732" id="arma.c39.s732"><alt-qs/>'Wait a moment, doctor,'<alt-qe/> I said.</s>
+          <s sid="733" id="arma.c39.s733"><alt-qs/>'Do you hold me responsible for what has happened?'<alt-qe/></s>
+        </p>
+        <p pid="190" id="arma.c39.p190" type="speech" form="extended" position="middle">
+          <s sid="734" id="arma.c39.s734">"<alt-qs/>'Certainly not,'<alt-qe/> he replied, stiffly.</s>
+          <s sid="735" id="arma.c39.s735"><alt-qs/>'Neither you nor anybody could have foreseen what has happened.</s>
+          <s sid="736" id="arma.c39.s736">When I say I would give ten thousand pounds to be out of this business, I am blaming nobody but myself.</s>
+          <s sid="737" id="arma.c39.s737">And when I tell you next that I, for one, won't allow Mr. Armadale's resurrection from the sea to be the ruin of me without a fight for it, I tell you, my dear madam, one of the plainest truths I ever told to man or woman in the whole course of my life.</s>
+          <s sid="738" id="arma.c39.s738">Don't suppose I am invidiously separating my interests from yours in the common danger that now threatens us both.</s>
+          <s sid="739" id="arma.c39.s739">I simply indicate the difference in the risk that we have respectively run.</s>
+          <s sid="740" id="arma.c39.s740">_You_ have not sunk the whole of your resources in establishing a Sanitarium; and _you_ have not made a false declaration before a magistrate, which is punishable as perjury by the law.'<alt-qe/></s>
+        </p>
+        <p pid="191" id="arma.c39.p191" type="speech" form="extended" position="middle">
+          <s sid="741" id="arma.c39.s741">"I interrupted him again.</s>
+          <s sid="742" id="arma.c39.s742">His selfishness did me more good than his tea: it roused my temper effectually.</s>
+          <s sid="743" id="arma.c39.s743"><alt-qs/>'Suppose we let your risk and my risk alone, and come to the point,'<alt-qe/> I said.</s>
+          <s sid="744" id="arma.c39.s744"><alt-qs/>'What do you mean by making a fight for it?</s>
+          <s sid="745" id="arma.c39.s745">I see a railway guide on your table.</s>
+          <s sid="746" id="arma.c39.s746">Does making a fight for it mean--running away?'<alt-qe/></s>
+        </p>
+        <p pid="192" id="arma.c39.p192" type="speech" form="extended" position="middle">
+          <s sid="747" id="arma.c39.s747">"<alt-qs/>'Running away?'<alt-qe/> repeated the doctor.</s>
+          <s sid="748" id="arma.c39.s748"><alt-qs/>'You appear to forget that every farthing I have in the world is embarked in this establishment.'<alt-qe/></s>
+        </p>
+        <p pid="193" id="arma.c39.p193" type="speech" form="extended" position="middle">
+          <s sid="749" id="arma.c39.s749">"<alt-qs/>'You stop here, then?'<alt-qe/></s>
+          <s sid="750" id="arma.c39.s750">I said.</s>
+        </p>
+        <p pid="194" id="arma.c39.p194" type="speech" form="extended" position="middle">
+          <s sid="751" id="arma.c39.s751">"<alt-qs/>'Unquestionably!'<alt-qe/></s>
+        </p>
+        <p pid="195" id="arma.c39.p195" type="speech" form="extended" position="middle">
+          <s sid="752" id="arma.c39.s752">"<alt-qs/>'And what do you mean to do when Mr. Armadale comes to England?'<alt-qe/></s>
+        </p>
+        <p pid="196" id="arma.c39.p196" type="speech" form="extended" position="middle">
+          <s sid="753" id="arma.c39.s753">"A solitary fly, the last of his race whom the winter had spared, was buzzing feebly about the doctor's face.</s>
+          <s sid="754" id="arma.c39.s754">He caught it before he answered me, and held it out across the table in his closed hand.</s>
+        </p>
+        <p pid="197" id="arma.c39.p197" type="speech" form="extended" position="middle">
+          <s sid="755" id="arma.c39.s755">"<alt-qs/>'If this fly's name was Armadale,'<alt-qe/><sss/> he said, <sse/><alt-qs/>'and if you had got him as I have got him now, what would _you_ do?'<alt-qe/></s>
+        </p>
+        <p pid="198" id="arma.c39.p198" type="speech" form="extended" position="middle">
+          <s sid="756" id="arma.c39.s756">"His eyes, fixed on my face up to this time, turned significantly, as he ended this question, to my widow's dress.</s>
+          <s sid="757" id="arma.c39.s757">I, too, looked at it when he looked.</s>
+          <s sid="758" id="arma.c39.s758">A thrill of the old deadly hatred and the old deadly determination ran through me again.</s>
+        </p>
+        <p pid="199" id="arma.c39.p199" type="speech" form="extended" position="middle">
+          <s sid="759" id="arma.c39.s759">"<alt-qs/>'I should kill him,'<alt-qe/> I said.</s>
+        </p>
+        <p pid="200" id="arma.c39.p200" type="speech" form="extended" position="middle">
+          <s sid="760" id="arma.c39.s760">"The doctor started to his feet (with the fly still in his hand), and looked at me--a little too theatrically--with an expression of the utmost horror.</s>
+        </p>
+        <p pid="201" id="arma.c39.p201" type="speech" form="extended" position="middle">
+          <s sid="761" id="arma.c39.s761">"<alt-qs/>'Kill him!'<alt-qe/> repeated the doctor, in a paroxysm of virtuous alarm.</s>
+          <s sid="762" id="arma.c39.s762"><alt-qs/>'Violence--murderous violence--in My Sanitarium!</s>
+          <s sid="763" id="arma.c39.s763">You take my breath away!'<alt-qe/></s>
+        </p>
+        <p pid="202" id="arma.c39.p202" type="speech" form="extended" position="middle">
+          <s sid="764" id="arma.c39.s764">"I caught his eye while he was expressing himself in this elaborately indignant manner, scrutinizing me with a searching curiosity which was, to say the least of it, a little at variance with the vehemence of his language and the warmth of his tone.</s>
+          <s sid="765" id="arma.c39.s765">He laughed uneasily when our eyes met, and recovered his smoothly confidential manner in the instant that elapsed before he spoke again.</s>
+        </p>
+        <p pid="203" id="arma.c39.p203" type="speech" form="extended" position="middle">
+          <s sid="766" id="arma.c39.s766">"<alt-qs/>'I beg a thousand pardons,'<alt-qe/> he said.</s>
+          <s sid="767" id="arma.c39.s767"><alt-qs/>'I ought to have known better than to take a lady too literally at her word.</s>
+          <s sid="768" id="arma.c39.s768">Permit me to remind you, however, that the circumstances are too serious for anything in the nature of--let us say, an exaggeration or a joke.</s>
+          <s sid="769" id="arma.c39.s769">You shall hear what I propose, without further preface.'<alt-qe/></s>
+          <s sid="770" id="arma.c39.s770">He paused, and resumed his figurative use of the fly imprisoned in his hand.</s>
+          <s sid="771" id="arma.c39.s771"><alt-qs/>'Here is Mr. Armadale.</s>
+          <s sid="772" id="arma.c39.s772">I can let him out, or keep him in, just as I please--and he knows it.</s>
+          <s sid="773" id="arma.c39.s773">I say to him,'<alt-qe/><sls/> continued the doctor, facetiously addressing the fly, <sle/><alt-qs/>'Give me proper security, Mr. Armadale, that no proceedings of any sort shall be taken against either this lady or myself, and I will let you out of the hollow of my hand.</s>
+          <s sid="774" id="arma.c39.s774">Refuse--and, be the risk what it may, I will keep you in."</s>
+          <s sid="775" id="arma.c39.s775">Can you doubt, my dear madam, what Mr. Armadale's answer is, sooner or later, certain to be?</s>
+          <s sid="776" id="arma.c39.s776">Can you doubt,'<alt-qe/><sls/> said the doctor, suiting the action to the word, and letting the fly go, <sle/><alt-qs/>'that it will end to the entire satisfaction of all parties, in this way?'<alt-qe/></s>
+        </p>
+        <p pid="204" id="arma.c39.p204" type="speech" form="extended" position="middle">
+          <s sid="777" id="arma.c39.s777">"<alt-qs/>'I won't say at present,'<alt-qe/><sss/> I answered, <sse/><alt-qs/>'whether I doubt or not.</s>
+          <s sid="778" id="arma.c39.s778">Let me make sure that I understand you first.</s>
+          <s sid="779" id="arma.c39.s779">You propose, if I am not mistaken, to shut the doors of this place on Mr. Armadale, and not to let him out again until he has agreed to the terms which it is our interest to impose on him?</s>
+          <s sid="780" id="arma.c39.s780">May I ask, in that case, how you mean to make him walk into the trap that you have set for him here?'<alt-qe/></s>
+        </p>
+        <p pid="205" id="arma.c39.p205" type="speech" form="extended" position="middle">
+          <s sid="781" id="arma.c39.s781">"<alt-qs/>'I propose,'<alt-qe/><sls/> said the doctor, with his hand on the railway guide, <sle/><alt-qs/>'ascertaining first at what time during every evening of this month the tidal trains from Dover and Folkestone reach the London Bridge terminus.</s>
+          <s sid="782" id="arma.c39.s782">And I propose, next, posting a person whom Mr. Armadale knows, and whom you and I can trust, to wait the arrival of the trains, and to meet our man at the moment when he steps out of the railway carriage.'<alt-qe/></s>
+        </p>
+        <p pid="206" id="arma.c39.p206" type="speech" form="extended" position="middle">
+          <s sid="783" id="arma.c39.s783">"<alt-qs/>'Have you thought,'<alt-qe/><sss/> I inquired, <sse/><alt-qs/>'of who the person is to be?'<alt-qe/></s>
+        </p>
+        <p pid="207" id="arma.c39.p207" type="speech" form="extended" position="middle">
+          <s sid="784" id="arma.c39.s784">"<alt-qs/>'I have thought,'<alt-qe/><sls/> said the doctor, taking up Armadale's letter <sle/><alt-qs/>'of the person to whom this letter is addressed.'<alt-qe/></s>
+        </p>
+        <p pid="208" id="arma.c39.p208" type="speech" form="extended" position="middle">
+          <s sid="785" id="arma.c39.s785">"The answer startled me.</s>
+          <s sid="786" id="arma.c39.s786">Was it possible that he and Bashwood knew one another?</s>
+          <s sid="787" id="arma.c39.s787">I put the question immediately.</s>
+        </p>
+        <p pid="209" id="arma.c39.p209" type="speech" form="extended" position="middle">
+          <s sid="788" id="arma.c39.s788">"<alt-qs/>'Until to-day I never so much as heard of the gentleman's name,'<alt-qe/> said the doctor.</s>
+          <s sid="789" id="arma.c39.s789"><alt-qs/>'I have simply pursued the inductive process of reasoning, for which we are indebted to the immortal Bacon.</s>
+          <s sid="790" id="arma.c39.s790">How does this very important letter come into your possession?</s>
+          <s sid="791" id="arma.c39.s791">I can't insult you by supposing it to have been stolen.</s>
+          <s sid="792" id="arma.c39.s792">Consequently, it has come to you with the leave and license of the person to whom it is addressed.</s>
+          <s sid="793" id="arma.c39.s793">Consequently, that person is in your confidence.</s>
+          <s sid="794" id="arma.c39.s794">Consequently, he is the first person I think of.</s>
+          <s sid="795" id="arma.c39.s795">You see the process?</s>
+          <s sid="796" id="arma.c39.s796">Very good.</s>
+          <s sid="797" id="arma.c39.s797">Permit me a question or two, on the subject of Mr. Bashwood, before we go on any further.'<alt-qe/></s>
+        </p>
+        <p pid="210" id="arma.c39.p210" type="speech" form="extended" position="middle">
+          <s sid="798" id="arma.c39.s798">"The doctor's questions went as straight to the point as usual.</s>
+          <s sid="799" id="arma.c39.s799">My answers informed him that Mr. Bashwood stood toward Armadale in the relation of steward; that he had received the letter at Thorpe Ambrose that morning, and had brought it straight to me by the first train; that he had not shown it, or spoken of it before leaving, to Major Milroy or to any one else; that I had not obtained this service at his hands by trusting him with my secret; that I had communicated with him in the character of Armadale's widow; that he had suppressed the letter, under those circumstances, solely in obedience to a general caution I had given him to keep his own counsel, if anything strange happened at Thorpe Ambrose, until he had first consulted me; and, lastly, that the reason why he had done as I told him in this matter, was that in this matter, and in all others, Mr. Bashwood was blindly devoted to my interests.</s>
+        </p>
+        <p pid="211" id="arma.c39.p211" type="speech" form="extended" position="middle">
+          <s sid="800" id="arma.c39.s800">"At that point in the interrogatory, the doctor's eyes began to look at me distrustfully behind the doctor's spectacles.</s>
+        </p>
+        <p pid="212" id="arma.c39.p212" type="speech" form="extended" position="middle">
+          <s sid="801" id="arma.c39.s801">"<alt-qs/>'What is the secret of this blind devotion of Mr. Bashwood's to your interests?'<alt-qe/> he asked.</s>
+        </p>
+        <p pid="213" id="arma.c39.p213" type="speech" form="extended" position="middle">
+          <s sid="802" id="arma.c39.s802">"I hesitated for a moment--in pity to Bashwood, not in pity to myself.</s>
+          <s sid="803" id="arma.c39.s803"><alt-qs/>'If you must know,'<alt-qe/><sss/> I answered, <sse/><alt-qs/>'Mr. Bashwood is in love with me.'<alt-qe/></s>
+        </p>
+        <p pid="214" id="arma.c39.p214" type="speech" form="extended" position="middle">
+          <s sid="804" id="arma.c39.s804">"<alt-qs/>'Ay! ay!'<alt-qe/> exclaimed the doctor, with an air of relief.</s>
+          <s sid="805" id="arma.c39.s805"><alt-qs/>'I begin to understand now.</s>
+          <s sid="806" id="arma.c39.s806">Is he a young man?'<alt-qe/></s>
+        </p>
+        <p pid="215" id="arma.c39.p215" type="speech" form="extended" position="middle">
+          <s sid="807" id="arma.c39.s807">"<alt-qs/>'He is an old man.'<alt-qe/></s>
+        </p>
+        <p pid="216" id="arma.c39.p216" type="speech" form="extended" position="middle">
+          <s sid="808" id="arma.c39.s808">"The doctor laid himself back in his chair, and chuckled softly.</s>
+          <s sid="809" id="arma.c39.s809"><alt-qs/>'Better and better!'<alt-qe/> he said.</s>
+          <s sid="810" id="arma.c39.s810"><alt-qs/>'Here is the very man we want.</s>
+          <s sid="811" id="arma.c39.s811">Who so fit as Mr. Armadale's steward to meet Mr. Armadale on his return to London?</s>
+          <s sid="812" id="arma.c39.s812">And who so capable of influencing Mr. Bashwood in the proper way as the charming object of Mr. Bashwood's admiration?'<alt-qe/></s>
+        </p>
+        <p pid="217" id="arma.c39.p217" type="speech" form="extended" position="middle">
+          <s sid="813" id="arma.c39.s813">"There could be no doubt that Bashwood was the man to serve the doctor's purpose, and that my influence was to be trusted to make him serve it.</s>
+          <s sid="814" id="arma.c39.s814">The difficulty was not here: the difficulty was in the unanswered question that I had put to the doctor a minute since.</s>
+          <s sid="815" id="arma.c39.s815">I put it to him again.</s>
+        </p>
+        <p pid="218" id="arma.c39.p218" type="speech" form="extended" position="middle">
+          <s sid="816" id="arma.c39.s816">"<alt-qs/>'Suppose Mr. Armadale's steward meets his employer at the terminus,'<alt-qe/> I said.</s>
+          <s sid="817" id="arma.c39.s817"><alt-qs/>'May I ask once more how Mr. Armadale is to be persuaded to come here?'<alt-qe/></s>
+        </p>
+        <p pid="219" id="arma.c39.p219" type="speech" form="extended" position="middle">
+          <s sid="818" id="arma.c39.s818">"<alt-qs/>'Don't think me ungallant,'<alt-qe/><sls/> rejoined the doctor in his gentlest manner, <sle/><alt-qs/>'if I ask, on my side, how are men persuaded to do nine-tenths of the foolish acts of their lives?</s>
+          <s sid="819" id="arma.c39.s819">They are persuaded by your charming sex.</s>
+          <s sid="820" id="arma.c39.s820">The weak side of every man is the woman's side of him.</s>
+          <s sid="821" id="arma.c39.s821">We have only to discover the woman's side of Mr. Armadale--to tickle him on it gently--and to lead him our way with a silken string.</s>
+          <s sid="822" id="arma.c39.s822">I observe here,'<alt-qe/><sls/> pursued the doctor, opening Armadale's letter, <sle/><alt-qs/>'a reference to a certain young lady, which looks promising.</s>
+          <s sid="823" id="arma.c39.s823">Where is the note that Mr. Armadale speaks of as addressed to Miss Milroy?'<alt-qe/></s>
+        </p>
+        <p pid="220" id="arma.c39.p220" type="speech" form="extended" position="middle">
+          <s sid="824" id="arma.c39.s824">"Instead of answering him, I started, in a sudden burst of excitement, to my feet.</s>
+          <s sid="825" id="arma.c39.s825">The instant he mentioned Miss Milroy's name all that I had heard from Bashwood of her illness, and of the cause of it, rushed back into my memory.</s>
+          <s sid="826" id="arma.c39.s826">I saw the means of decoying Armadale into the Sanitarium as plainly as I saw the doctor on the other side of the table, wondering at the extraordinary change in me.</s>
+          <s sid="827" id="arma.c39.s827">What a luxury it was to make Miss Milroy serve my interests at last!</s>
+        </p>
+        <p pid="221" id="arma.c39.p221" type="speech" form="extended" position="middle">
+          <s sid="828" id="arma.c39.s828">"<alt-qs/>'Never mind the note,'<alt-qe/> I said.</s>
+          <s sid="829" id="arma.c39.s829"><alt-qs/>'It's burned, for fear of accidents.</s>
+          <s sid="830" id="arma.c39.s830">I can tell you all (and more) than the note could have told you.</s>
+          <s sid="831" id="arma.c39.s831">Miss Milroy cuts the knot!</s>
+          <s sid="832" id="arma.c39.s832">Miss Milroy ends the difficulty!</s>
+          <s sid="833" id="arma.c39.s833">She is privately engaged to him.</s>
+          <s sid="834" id="arma.c39.s834">She has heard the false report of his death; and she has been seriously ill at Thorpe Ambrose ever since.</s>
+          <s sid="835" id="arma.c39.s835">When Bashwood meets him at the station, the very first question he is certain to ask--'<alt-qe/></s>
+        </p>
+        <p pid="222" id="arma.c39.p222" type="speech" form="extended" position="middle">
+          <s sid="836" id="arma.c39.s836">"<alt-qs/>'I see!'<alt-qe/> exclaimed the doctor, anticipating me.</s>
+          <s sid="837" id="arma.c39.s837"><alt-qs/>'Mr. Bashwood has nothing to do but to help the truth with a touch of fiction.</s>
+          <s sid="838" id="arma.c39.s838">When he tells his master that the false report has reached Miss Milroy, he has only to add that the shock has affected her head, and that she is here under medical care.</s>
+          <s sid="839" id="arma.c39.s839">Perfect! perfect!</s>
+          <s sid="840" id="arma.c39.s840">We shall have him at the Sanitarium as fast as the fastest cab-horse in London can bring him to us.</s>
+          <s sid="841" id="arma.c39.s841">And mind! no risk--no necessity for trusting other people.</s>
+          <s sid="842" id="arma.c39.s842">This is not a mad-house; this is not a licensed establishment; no doctors' certificates are necessary here!</s>
+          <s sid="843" id="arma.c39.s843">My dear lady, I congratulate you; I congratulate myself.</s>
+          <s sid="844" id="arma.c39.s844">Permit me to hand you the railway guide, with my best compliments to Mr. Bashwood, and with the page turned down for him, as an additional attention, at the right place.'<alt-qe/></s>
+        </p>
+        <p pid="223" id="arma.c39.p223" type="speech" form="extended" position="middle">
+          <s sid="845" id="arma.c39.s845">"Remembering how long I had kept Bashwood waiting for me, I took the book at once, and wished the doctor good-evening without further ceremony.</s>
+          <s sid="846" id="arma.c39.s846">As he politely opened the door for me, he reverted, without the slightest necessity for doing so, and without a word from me to lead to it, to the outburst of virtuous alarm which had escaped him at the earlier part of our interview.</s>
+        </p>
+        <p pid="224" id="arma.c39.p224" type="speech" form="extended" position="middle">
+          <s sid="847" id="arma.c39.s847">"<alt-qs/>'I do hope,'<alt-qe/><sss/> he said, <sse/><alt-qs/>'that you will kindly forget and forgive my extraordinary want of tact and perception when--in short, when I caught the fly.</s>
+          <s sid="848" id="arma.c39.s848">I positively blush at my own stupidity in putting a literal interpretation on a lady's little joke!</s>
+          <s sid="849" id="arma.c39.s849">Violence in My Sanitarium!'<alt-qe/><sls/> exclaimed the doctor, with his eyes once more fixed attentively on my face--<sle/><alt-qs/>'violence in this enlightened nineteenth century!</s>
+          <s sid="850" id="arma.c39.s850">Was there ever anything so ridiculous?</s>
+          <s sid="851" id="arma.c39.s851">Do fasten your cloak before you go out, it is so cold and raw!</s>
+          <s sid="852" id="arma.c39.s852">Shall I escort you?</s>
+          <s sid="853" id="arma.c39.s853">Shall I send my servant?</s>
+          <s sid="854" id="arma.c39.s854">Ah, you were always independent! always, if I may say so, a host in yourself!</s>
+          <s sid="855" id="arma.c39.s855">May I call to-morrow morning, and hear what you have settled with Mr. Bashwood?'<alt-qe/></s>
+        </p>
+        <p pid="225" id="arma.c39.p225" type="speech" form="extended" position="middle">
+          <s sid="856" id="arma.c39.s856">"I said yes, and got away from him at last.</s>
+          <s sid="857" id="arma.c39.s857">In a quarter of an hour more I was back at my lodgings, and was informed by the servant that <alt-qs/>'the elderly gentleman'<alt-qe/> was still waiting for me.</s>
+        </p>
+        <p pid="226" id="arma.c39.p226" type="speech" form="extended" position="middle">
+          <s sid="858" id="arma.c39.s858">"I have not got the heart or the patience--I hardly know which--to waste many words on what passed between me and Bashwood.</s>
+          <s sid="859" id="arma.c39.s859">It was so easy, so degradingly easy, to pull the strings of the poor old puppet in any way I pleased!</s>
+          <s sid="860" id="arma.c39.s860">I met none of the difficulties which I should have been obliged to meet in the case of a younger man, or of a man less infatuated with admiration for me.</s>
+          <s sid="861" id="arma.c39.s861">I left the allusions to Miss Milroy in Armadale's letter, which had naturally puzzled him, to be explained at a future time.</s>
+          <s sid="862" id="arma.c39.s862">I never even troubled myself to invent a plausible reason for wishing him to meet Armadale at the terminus, and to entrap him by a stratagem into the doctor's Sanitarium.</s>
+          <s sid="863" id="arma.c39.s863">All that I found it necessary to do was to refer to what I had written to Mr. Bashwood, on my arrival in London, and to what I had afterward said to him, when he came to answer my letter personally at the hotel.</s>
+        </p>
+        <p pid="227" id="arma.c39.p227" type="speech" form="extended" position="middle">
+          <s sid="864" id="arma.c39.s864">"<alt-qs/>'You know already,'<alt-qe/><sss/> I said, <sse/><alt-qs/>'that my marriage has not been a happy one.</s>
+          <s sid="865" id="arma.c39.s865">Draw your own conclusions from that; and don't press me to tell you whether the news of Mr. Armadale's rescue from the sea is, or is not, the welcome news that it ought to be to his wife!'<alt-qe/></s>
+          <s sid="866" id="arma.c39.s866">That was enough to put his withered old face in a glow, and to set his withered old hopes growing again.</s>
+          <s sid="867" id="arma.c39.s867">I had only to add, <alt-qs/>'If you will do what I ask you to do, no matter how incomprehensible and how mysterious my request may seem to be; and if you will accept my assurances that you shall run no risk yourself, and that you shall receive the proper explanations at the proper time, you will have such a claim on my gratitude and my regard as no man living has ever had yet!'<alt-qe/></s>
+          <s sid="868" id="arma.c39.s868">I had only to say those words, and to point them by a look and a stolen pressure of his hand, and I had him at my feet, blindly eager to obey me.</s>
+          <s sid="869" id="arma.c39.s869">If he could have seen what I thought of myself; but that doesn't matter: he saw nothing.</s>
+        </p>
+        <p pid="228" id="arma.c39.p228" type="speech" form="extended" position="middle">
+          <s sid="870" id="arma.c39.s870">"Hours have passed since I sent him away (pledged to secrecy, possessed of his instructions, and provided with his time-table) to the hotel near the terminus, at which he is to stay till Armadale appears on the railway platform.</s>
+          <s sid="871" id="arma.c39.s871">The excitement of the earlier part of the evening has all worn off; and the dull, numbed sensation has got me again.</s>
+          <s sid="872" id="arma.c39.s872">Are my energies wearing out, I wonder, just at the time when I most want them?</s>
+          <s sid="873" id="arma.c39.s873">Or is some foreshadowing of disaster creeping over me which I don't yet understand?</s>
+        </p>
+        <p pid="229" id="arma.c39.p229" type="speech" form="extended" position="middle">
+          <s sid="874" id="arma.c39.s874">"I might be in a humor to sit here for some time longer, thinking thoughts like these, and letting them find their way into words at their own will and pleasure, if my Diary would only let me.</s>
+          <s sid="875" id="arma.c39.s875">But my idle pen has been busy enough to make its way to the end of the volume.</s>
+          <s sid="876" id="arma.c39.s876">I have reached the last morsel of space left on the last page; and whether I like it or not, I must close the book this time for good and all, when I close it to-night.</s>
+        </p>
+        <p pid="230" id="arma.c39.p230" type="speech" form="extended" position="middle">
+          <s sid="877" id="arma.c39.s877">"Good-by, my old friend and companion of many a miserable day!</s>
+          <s sid="878" id="arma.c39.s878">Having nothing else to be fond of, I half suspect myself of having been unreasonably fond of _you_.</s>
+        </p>
+        <p pid="231" id="arma.c39.p231" type="speech" form="extended" position="end">
+          <s sid="879" id="arma.c39.s879">"What a fool I am!"<qe/></s>
+        </p>
+    </div>
+
+    <div book="sample4" num="71">
+        <p pid="33" id="Jude.c26.p33" type="speech">
+            <s sid="1" id="sample4.c71.s1"><qs/>"I never heard anything of you, or I don't know that
+                I should have come here.
+            </s>
+            <s sid="2" id="sample4.c71.s2">But never mind!</s>
+            <s sid="3" id="sample4.c71.s3">What shall I treat you to this afternoon?</s>
+            <s sid="4" id="sample4.c71.s4">A Scotch and soda?</s>
+            <s sid="5" id="sample4.c71.s5">Come, anything that the house will afford, for old
+                acquaintance' sake!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="72">
+        <p pid="36" id="jane.c24.p36" type="speech">
+            <s sid="1" id="sample4.c72.s1"><qs/>"I love it now."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="73">
+        <p pid="31" id="cran.c3.p31" type="speech">
+            <s sid="1" id="sample4.c73.s1"><qs/>"He must be about seventy, I think, my dear,"
+                <qe/>
+                said Miss Pole, blowing up my castle, as if by gun-powder, into small fragments.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="74">
+        <p pid="12" id="Deronda.c1.p12" type="speech">
+            <s sid="1" id="sample4.c74.s1"><qs/>"A striking girl--that Miss Harleth--unlike
+                others."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="75">
+        <p pid="87" id="Pomp.c3.p87" type="speech">
+            <s sid="1" id="sample4.c75.s1"><qs/>'What wisdom!'
+                <qe/>
+                muttered the umbra.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="76">
+        <p pid="18" id="sybil.c64.p18" type="speech">
+            <s sid="1" id="sample4.c76.s1"><qs/>"'Twas Master Joseph,"
+                <qe/>
+                moaned Mrs Prance.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="77">
+        <p pid="13" id="wwhite.c13.p13" type="speech">
+            <s sid="1" id="sample4.c77.s1"><qs/>"In a private Asylum, I think you said?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="78">
+        <p pid="35" id="native.c47.p35" type="speech">
+            <s sid="1" id="sample4.c78.s1">It is to be supposed that Thomasin was convinced; for a
+                few days after this, when Clym strayed into a part of the heath that he had not
+                lately visited, Humphrey, who was at work there, said to him,<qs/>"I am glad to see
+                that Mrs. Wildeve and Venn have made it up again, seemingly."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="79">
+        <p pid="23" id="mill.c24.p23" type="speech">
+            <s sid="1" id="sample4.c79.s1"><qs/>"Yes, father.
+            </s>
+            <s sid="2" id="sample4.c79.s2">And haven't you a note from my uncle Moss for three
+                hundred pounds?
+            </s>
+            <s sid="3" id="sample4.c79.s3">We came to look for that.</s>
+            <s sid="4" id="sample4.c79.s4">What do you wish to be done about it, father?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="80">
+        <p pid="10" id="jane.c17.p10" type="speech">
+            <s sid="1" id="sample4.c80.s1">The three days were, as she had foretold, busy
+                enough.
+            </s>
+            <s sid="2" id="sample4.c80.s2">I had thought all the rooms at Thornfield beautifully
+                clean and well arranged; but it appears I was mistaken.
+            </s>
+            <s sid="3" id="sample4.c80.s3">Three women were got to help; and such scrubbing, such
+                brushing, such washing of paint and beating of carpets, such taking down and putting
+                up of pictures, such polishing of mirrors and lustres, such lighting of fires in
+                bedrooms, such airing of sheets and feather-beds on hearths, I never beheld, either
+                before or since.
+            </s>
+            <s sid="4" id="sample4.c80.s4">Adele ran quite wild in the midst of it: the preparations
+                for company and the prospect of their arrival, seemed to throw her into
+                ecstasies.
+            </s>
+            <s sid="5" id="sample4.c80.s5">She would have Sophie to look over all her
+                <qs/>"toilettes,"
+                <qe/><sls/> 
+                as she called frocks; to furbish up any that were
+                <sle/><qs/>"passees,"
+                <qe/>
+                and to air and arrange the new.
+            </s>
+            <s sid="6" id="sample4.c80.s6">For herself, she did nothing but caper about in the front
+                chambers, jump on and off the bedsteads, and lie on the mattresses and piled-up
+                bolsters and pillows before the enormous fires roaring in the chimneys.
+            </s>
+            <s sid="7" id="sample4.c80.s7">From school duties she was exonerated:</s>
+            <s sid="8" id="sample4.c80.s8">Mrs. Fairfax had pressed me into her service, and I was
+                all day in the storeroom, helping (or hindering) her and the cook; learning to make
+                custards and cheese-cakes and French pastry, to truss game and garnish
+                desert-dishes.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="81">
+        <p pid="53" id="Tess.c36.p53" type="speech">
+            <s sid="1" id="sample4.c81.s1"><qs/>"Wicked!
+            </s>
+            <s sid="2" id="sample4.c81.s2">The idea was unworthy of you beyond
+                description."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="82">
+        <p pid="16" id="Jude.c37.p16" type="speech">
+            <s sid="1" id="sample4.c82.s1">Her face brightened.</s>
+            <s sid="2" id="sample4.c82.s2"><qs/>"Yes--so we will!"
+                <qe/>
+                said she.
+            </s>
+            <s sid="3" id="sample4.c82.s3">And they turned from the clerk's door, Sue taking his arm
+                and murmuring as they walked on homeward:
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="83">
+        <p pid="60" id="vanity.c37.p60" type="speech">
+            <s sid="1" id="sample4.c83.s1"><qs/>"Mr. Sedley, Sole Agent for the Black Diamond and
+                Anti-Cinder Coal Association, Bunker's Wharf, Thames Street, and Anna-Maria
+                Cottages, Fulham Road West."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="84">
+        <p pid="47" id="Deronda.c35.p47" type="speech">
+            <s sid="1" id="sample4.c84.s1"><qs/>"Will you not join in the music?"
+                <qe/>
+                he said by
+                way of meeting the necessity for speech.
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="85">
+        <p pid="33" id="dorian.c6.p33" type="speech">
+            <s sid="1" id="sample4.c85.s1">Lord Henry looked across the table.</s>
+            <s sid="2" id="sample4.c85.s2"><qs/>"Dorian is never annoyed with me,"
+                <qe/>
+                he
+                answered.
+            </s>
+            <s sid="3" id="sample4.c85.s3"><qs/>"I asked the question for the best reason possible,
+                for the only reason, indeed, that excuses one for asking any question-- simple
+                curiosity.
+            </s>
+            <s sid="4" id="sample4.c85.s4">I have a theory that it is always the women who propose
+                to us, and not we who propose to the women.
+            </s>
+            <s sid="5" id="sample4.c85.s5">Except, of course, in middle-class life.</s>
+            <s sid="6" id="sample4.c85.s6">But then the middle classes are not modern."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="86">
+        <p pid="16" id="Pomp.c5.p16" type="speech">
+            <s sid="1" id="sample4.c86.s1"><qs/>'Ah, now you give me pleasure; for I came, as often
+                as I could steal the leisure, to water and tend them in your absence.'
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="87">
+        <p pid="37" id="wh.c11.p37" type="speech">
+            <s sid="1" id="sample4.c87.s1"><qs/>'What new phase of his character is this?'
+                <qe/>
+                exclaimed Mrs. Linton, in amazement.
+            </s>
+            <s sid="2" id="sample4.c87.s2"><qs/>'I've treated you infernally - and you'll take your
+                revenge!
+            </s>
+            <s sid="3" id="sample4.c87.s3">How will you take it, ungrateful brute?</s>
+            <s sid="4" id="sample4.c87.s4">How have I treated you infernally?'
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="88">
+        <p pid="73" id="sybil.c69.p73" type="speech">
+            <s sid="1" id="sample4.c88.s1"><qs/>"Surrender,"
+                <qe/>
+                said the commander of the
+                yeomanry.
+            </s>
+            <s sid="2" id="sample4.c88.s2"><qs/>"Resistance is useless."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="90">
+        <p pid="64" id="dorian.c14.p64" type="speech">
+            <s sid="1" id="sample4.c90.s1"><qs/>"Yes, there is a gas-fire with asbestos."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="91">
+        <p pid="39" id="jane.c8.p39" type="speech">
+            <s sid="1" id="sample4.c91.s1"><qs/>"But you two are my visitors to-night; I must treat
+                you as such."
+                <qe/>
+            </s>
+            <s sid="2" id="sample4.c91.s2">She rang her bell.</s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="92">
+        <p pid="30" id="pride.c41.p30" type="speech">
+            <s sid="1" id="sample4.c92.s1"><qs/>"And you saw him frequently?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="93">
+        <p pid="7" id="sybil.c52.p7" type="speech">
+            <s sid="1" id="sample4.c93.s1"><qs/>"The best thing the young lady can do,"
+                <qe/>
+                <sls/>
+                said the dustman, in a hoarse voice,
+                <sle/>
+                <qs/>"is to stand something to us
+                all."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="94">
+        <p pid="37" id="arma.c27.p37" type="speech">
+            <s sid="1" id="sample4.c94.s1">Allan's head sank on his breast when he was left
+                alone.
+            </s>
+            <s sid="2" id="sample4.c94.s2"><qs/>"If it was only the end of the week!"
+                <qe/>
+                he
+                thought, longingly.
+            </s>
+            <s sid="3" id="sample4.c94.s3"><qs/>"If I only had Midwinter back again!"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="95">
+        <p pid="23" id="Antoni.c2.p23" type="speech">
+            <s sid="1" id="sample4.c95.s1"><qs/>'No, no!
+            </s>
+            <s sid="2" id="sample4.c95.s2">It was about that man who is incessantly writing, and
+                will look at nobody.
+            </s>
+            <s sid="3" id="sample4.c95.s3">He is almost as provoking as Camilla herself!'
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="96">
+        <p pid="4" id="Antoni.c18.p4" type="speech">
+            <s sid="1" id="sample4.c96.s1">Thus engrossed by their thoughts, Hermanric and Antonina
+                remained silent in their little retreat, until the reveries of both were suddenly
+                interrupted by the snapping asunder of the bar of wood which secured the door of the
+                room, the stress of which, as it bent under the repeated shocks of the wind, the
+                rotten spar was too weak to sustain any longer.
+            </s>
+            <s sid="2" id="sample4.c96.s2">There was something inexpressibly desolate in the flood
+                of rain, wind, and darkness that seemed instantly to pour into the chamber through
+                the open door, as it flew back violently on its frail hinges.
+            </s>
+            <s sid="3" id="sample4.c96.s3">Antonina changed colour, and shuddered involuntarily, as
+                Hermanric hastily rose and closed the door again, by detaching its rude latch from
+                the sling which held it when not wanted for use.
+            </s>
+            <s sid="4" id="sample4.c96.s4">He looked round the room as he did so for some substitute
+                for the broken bar, but nothing that was fit for the purpose immediately met his
+                eye, and he muttered to himself as he returned impatiently to his seat:
+            </s>
+            <s sid="5" id="sample4.c96.s5"><qs/>'While we are here to watch it the latch is enough;
+                it is new and strong.'
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="98">
+        <p pid="52" id="Jude.c7.p52" type="speech">
+            <s sid="1" id="sample4.c98.s1">But that sense was only temporary:</s>
+            <s sid="2" id="sample4.c98.s2">Arabella soon re-asserted her sway in his soul.</s>
+            <s sid="3" id="sample4.c98.s3">He walked as if he felt himself to be another man from
+                the Jude of yesterday.
+            </s>
+            <s sid="4" id="sample4.c98.s4">What were his books to him? what were his intentions,
+                hitherto adhered to so strictly, as to not wasting a single minute of time day by
+                day?
+            </s>
+            <s sid="5" id="sample4.c98.s5"><qs/>"Wasting!"
+                <qe/>
+            </s>
+            <s sid="6" id="sample4.c98.s6">It depended on your point of view to define that: he was
+                just living for the first time: not wasting life.
+            </s>
+            <s sid="7" id="sample4.c98.s7">It was better to love a woman than to be a graduate, or a
+                parson; ay, or a pope!
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="99">
+        <p pid="20" id="wwhite.c22.p20" type="speech">
+            <s sid="1" id="sample4.c99.s1"><qs/>"Certainly not, Marian.
+            </s>
+            <s sid="2" id="sample4.c99.s2">Whatever I can harmlessly and honestly do to help him I
+                will do--for the sake of making your life and mine, love, as easy and as happy as
+                possible.
+            </s>
+            <s sid="3" id="sample4.c99.s3">But I will do nothing ignorantly, which we might, one
+                day, have reason to feel ashamed of.
+            </s>
+            <s sid="4" id="sample4.c99.s4">Let us say no more about it now.</s>
+            <s sid="5" id="sample4.c99.s5">You have got your hat on-- suppose we go and dream away
+                the afternoon in the grounds?"
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="100">
+        <p pid="20" id="basker.c5.p20" type="speech">
+            <s sid="1" id="sample4.c100.s1"><qs/>"So it was, sir.
+            </s>
+            <s sid="2" id="sample4.c100.s2">And now it's an old black one."
+                <qe/>
+            </s>
+        </p>
+
+    </div>
+
+    <div book="sample4" num="101">
+    	<p pid="53" id="mary.c6.p53" type="speech">
+		<s sid="230" id="sample4.c101.s1">
+			<qs/>"Thomas, you must ride to the fishmongers, and say missis can't give above half-a-crown
+		a pound for salmon for Tuesday; she's grumbling because trade's so bad.</s>
+		<s sid="231" id="sample4.c101.s2">And she'll want the carriage at three to go to the lecture, Thomas; at the Royal Execution, you know."<qe/></s> </p>
+
+    </div>
+
+    <div book="sample4" num="102">
+		<p pid="73" id="mary.c18.p73" type="speech">
+		<s sid="169" id="sample4.c102.s1">
+			<qs/>"Harry! oh, no! he had to attend a meeting of the masters about these cursed turn-outs.</s>
+			<s sid="170" id="sample4.c102.s2">I don't expect him yet.</s>
+			<s sid="171" id="sample4.c102.s3">What are you looking at me so strangely for, Sophy?"<qe/></s> </p>
+
+    </div>
+
+    <div book="sample4" num="103">
+		<p pid="48" id="mary.c13.p48" type="speech">
+			<s sid="112" id="sample4.c103.s1">
+				<qs/>"You never saw the mermaid yoursel,"<qe/> interposed Margaret gently.</s>
+				<s sid="113" id="sample4.c103.s2">But <qs/>"love me, love my dog,"<qe/> <sls/>was Will Wilson's motto, only his version was,<sle/>
+				<qs/>"Believe me, believe Jack Harris"<qe/>; and the remark was not so soothing to him as it was intended to have been.</s> </p>
+
+    </div>
+
+    <div book="sample4" num="104">
+		<p pid="33" id="Jekyll.c2.p33" type="speech">
+		<s sid="91" id="sample4.c104.s1">
+		<qs/>"Jekyll, for instance,"<qe/> said the lawyer.</s> </p>
+
+    </div>
+
+    <div book="sample4" num="105">
+		<p pid="10" id="Jekyll.c1.p10" type="speech">
+		<s sid="64" id="sample4.c105.s1">
+			<qs/>"I see you feel as I do,"<qe/> said Mr. Enfield.</s>
+			<s sid="65" id="sample4.c105.s2"><qs/>"Yes, it's a bad story.</s>
+			<s sid="66" id="sample4.c105.s3">For my man was a fellow that nobody could have to do with, a really damnable man;
+			and the person that drew the cheque is the very pink of the proprieties, celebrated too, and (what makes it worse)
+			one of your fellows who do what they call good.</s>
+			<s sid="67" id="sample4.c105.s4">Black-mail, I suppose; an honest man paying through the nose for some of the capers of his youth.</s>
+			<s sid="68" id="sample4.c105.s5">Black-Mail House is what I call that place with the door, in consequence.</s>
+			<s sid="69" id="sample4.c105.s6">Though even that, you know, is far from explaining all,"<qe/> he added, and with the words fell into a vein of musing.</s> </p>
+
+    </div>
+</samples>
